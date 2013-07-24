@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample ebook
+title: Engaging Students – Essays in Music Pedagogy
 ---
 
 
@@ -8,29 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 # Articles #
 
-[Peter Schubert][schubert]
+[Peter Schubert][schubert]  
+[Carla Colletti][colletti]
 
 [schubert]: schubert.html
-
-
-[Article one.][art1]  
-[Article two.][art2]  
-[Article three.][art3]  
-[Article four.][art4]  
-[Article five.][art5]  
-[Article six.][art6]  
-[Article seven.][art7]  
-[Article eight.][art8]  
-[Article nine.][art9]  
-[Article ten.][art10]  
-
-[art1]: article1.html
-[art2]: article2.html
-[art3]: article3.html
-[art4]: article4.html
-[art5]: article5.html
-[art6]: article6.html
-[art7]: article7.html
-[art8]: article8.html
-[art9]: article9.html
-[art10]: article10.html
+[colletti]: colletti.html
