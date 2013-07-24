@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Silent Professor — Enhancing Student Engagement through the Conceptual Workshop Environment (MUSICLE)
+title: The Silent Professor — Enhancing Student Engagement through the Conceptual Workshop
 author: Carla R. Colletti, Webster University
 ---
 
