@@ -9,7 +9,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 # Articles #
 
 [Peter Schubert][schubert]  
-[Carla Colletti][colletti]
+[Carla Colletti][colletti]  
+[Kevin Burke][burke]
 
 [schubert]: schubert.html
 [colletti]: colletti.html
+[burke]: burke.html
