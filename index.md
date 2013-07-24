@@ -8,6 +8,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 # Articles #
 
+[Peter Schubert][schubert]
+
+[schubert]: schubert.html
+
+
 [Article one.][art1]  
 [Article two.][art2]  
 [Article three.][art3]  
