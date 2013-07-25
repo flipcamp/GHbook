@@ -11,5 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 [Alegant & Sawhill](alegantSawhill.html)  
 [Kevin Burke](burke.html)  
 [Carla Colletti](colletti.html)  
-[Trevor de Clercq](deClercq.html)
+[Trevor de Clercq](deClercq.html)  
 [Philip Duker](duker.html)  
