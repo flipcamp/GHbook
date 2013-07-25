@@ -12,7 +12,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 [Carla Colletti][colletti]  
 [Kevin Burke][burke]  
 [Philip Duker][duker]  
-[Alegant & Sawhill](alegantSawhill.html)
+[Alegant & Sawhill](alegantSawhill.html)  
+[Trevor de Clercq](deClercq.html)
 
 [schubert]: schubert.html
 [colletti]: colletti.html
