@@ -8,14 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 # Articles #
 
-[Peter Schubert][schubert]  
-[Carla Colletti][colletti]  
-[Kevin Burke][burke]  
-[Philip Duker][duker]  
 [Alegant & Sawhill](alegantSawhill.html)  
+[Kevin Burke](burke.html)  
+[Carla Colletti](colletti.html)  
 [Trevor de Clercq](deClercq.html)
-
-[schubert]: schubert.html
-[colletti]: colletti.html
-[burke]: burke.html
-[duker]: duker.html
+[Philip Duker](duker.html)  
