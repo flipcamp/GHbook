@@ -1,6 +1,10 @@
 ---
 layout: post
+<<<<<<< HEAD
 title: Flipping the classroom&#58; three methods – the basic flip
+=======
+title: Flipping the classroom, three methods the basic flip
+>>>>>>> 51ddb098d5db83c7ebc16f238ee6d4faa7516140
 author: Kris Shaffer, University of Colorado–Boulder
 ---
 
