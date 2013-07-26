@@ -22,4 +22,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 [Deborah Rifkin](rifkin.html)  
 [Crystal Peebles](peebles.html)  
 [Alexander R. Ludwig](ludwig.html)  
-[Timothy A. Johnson](johnson.html)
+[Timothy A. Johnson](johnson.html)  
+[Enoch S.A. Jacobus](jacobus.html)
