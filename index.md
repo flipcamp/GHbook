@@ -15,3 +15,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 [Philip Duker](duker.html)  
 [Anna Gawboy](gawboy.html)  
 [Stephen Gosden](gosden.html)  
+[Kris Shaffer - intro](shafferintro.html)  
+[Kris Shaffer - part 1](shafferpt1.html)
