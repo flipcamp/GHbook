@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Flipping the classroom — three methods – introduction
+title: Flipping the classroom, three methods – introduction
 author: Kris Shaffer, University of Colorado–Boulder
 ---
 
 {{ page.title }}
 ================
+
+**{{ page.author }}**
 
 “Flipping the class” is a hot topic in education today. In fact, the “flipped classroom” has become somewhat of a buzzword in some education—and especially education technology—circles. However, as some use this relatively new term uncritically, and others seek to co-opt it to hawk a product, confusion has grown around it, and many are unclear as to what a “flipped” class is.
 
