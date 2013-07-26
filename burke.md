@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacking the Listening Guides — Bloom’s Taxonomy and Aural Learning
+title: Hacking the Listening Guides&#58; Bloom’s Taxonomy and Aural Learning
 author: Kevin R. Burke
 ---
 

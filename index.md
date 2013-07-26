@@ -18,4 +18,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 [Kris Shaffer - intro](shafferintro.html)  
 [Kris Shaffer - part 1](shafferpt1.html)  
 [Kris Shaffer - part 3](shafferpt3.html)  
-[Colin Roust](roust.html)
+[Colin Roust](roust.html)  
+[Deborah Rifkin](rifkin.html)
