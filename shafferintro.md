@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flipping the classroom: three methods – introduction
+title: Flipping the classroom&#58; three methods – introduction
 author: Kris Shaffer, University of Colorado–Boulder
 ---
 
