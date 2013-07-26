@@ -47,7 +47,7 @@ Example 3 shows an in-class activity used in preparation for the listening assig
 
 Example 3: In-class activity discussing the exposition of Mozart, Symphony No. 40, mvmt. 1, exposition followed by its repetition.
 
-[](#)[](#)
+
 
 Label number
 
