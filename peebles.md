@@ -25,53 +25,13 @@ Example 1: Recording in Audacity of Bach, French Suite No. 5, Gavotte with the c
 
 |Questions|Answer Options|
 | --- | --- |
-
-
-|Listen to the entire movement several times. Cadences 1 and 2 are exactly the same as which other two cadences? |
-
-3 and 4
-5 and 6
-7 and 8
-
-Which of the following best describes the cadence at point 1?
-
-I: IAC
-
-I: HC
-
-V: IAC
-
-V: HC
-
-Which of the following best describes the cadence at point 2?
-
-I: PAC
-
-ii: PAC
-
-IV: PAC
-
-V: PAC
-
-Cadences 5 and 6 are in the same key. What is this key in relation to the home key?
-
-i
-
-ii
-
-iii
-
-vi
-
-The cadences at points 7 and 8 are best described as:
-
-I: HC, I: PAC
-
-IV: PAC, I: PAC
-
-V: HC, I: IAC
-
-vi: PAC, I: IAC
+|Listen to the entire movement several times. Cadences 1 and 2 are exactly the same as which other two cadences?|3 and 4|
+| | 5 and 6|
+| | 7 and 8|
+|Which of the following best describes the cadence at point 1?|I: IAC I: HC V: IAC V: HC|
+|Which of the following best describes the cadence at point 2?|I: PAC ii: PAC IV: PAC V: PAC|
+|Cadences 5 and 6 are in the same key. What is this key in relation to the home key?|i ii iii vi|
+|The cadences at points 7 and 8 are best described as:|I: HC, I: PAC IV: PAC, I: PAC V: HC, I: IAC vi: PAC, I: IAC|
 
  
 
