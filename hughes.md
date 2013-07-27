@@ -21,7 +21,7 @@ Although mired with a title that sounds like business jargon, Just-in-Time Teach
 
 _Students are more prepared_
 
-By engaging students outside of class, JiTT forces students to be more prepared for an in-class lesson. As a result, students take more ownership of their learning experience. When students complete JiTT tasks, they have a better idea of what's going to happen in class and will be more invested because they've already invested their own time. Interestingly, even when students know they are going to be quizzed immediately following a lecture, and therefore highly motivated to pay attention, [some studies have shown](http://pubs.acs.org/doi/abs/10.1021/ed081p985) JiTT quizzes given before class to have a greater impact on actively engaging students.
+By engaging students outside of class, JiTT forces students to be more prepared for an in-class lesson. As a result, students take more ownership of their learning experience. When students complete JiTT tasks, they have a better idea of what's going to happen in class and will be more invested because they've already invested their own time. Interestingly, even when students know they are going to be quizzed immediately following a lecture, and therefore highly motivated to pay attention, [some studies have shown](http://pubs.acs.org/doi/abs/10.1021/ed081p985) JiTT quizzes given _before_ class to have a greater impact on actively engaging students.
 
 _Cyclic reinforcement of concepts_
 
@@ -87,7 +87,7 @@ Following a brief introduction, students in a PI class session are presented wit
 
 Like JiTT, questions used for ConcepTests need to be very carefully constructed. Music theory instructors must be especially prudent when designing questions, given that the topic itself is not necessarily well-suited to the response modes afforded by most clicker platforms. If ConcepTests are too easy, too difficult, or simply involve the regurgitation of facts, students will have little to talk about during class discussions, which are the central focus of Peer Instruction.
 
-Music theory topics such as cadences, phrase structure, and form are easily delivered through PI, and in fact, I’m sure many of us have been using this pedagogical method, perhaps without giving it a name, for many years. Recently, Kris Shaffer has [written about his experiences](http://kris.shaffermusic.com/2012/04/peer-instruction-socrative-and-imogen-heap/) using PI while teaching music theory and aural skills. Likewise, [Philip Duker’s use of clickers for teaching]() could also be adapted to use PI.
+Music theory topics such as cadences, phrase structure, and form are easily delivered through PI, and in fact, I’m sure many of us have been using this pedagogical method, perhaps without giving it a name, for many years. Recently, Kris Shaffer has [written about his experiences](http://kris.shaffermusic.com/2012/04/peer-instruction-socrative-and-imogen-heap/) using PI while teaching music theory and aural skills. Likewise, [Philip Duker’s use of clickers for teaching](duker.html) could also be adapted to use PI.
 
 ####Conclusions
 
