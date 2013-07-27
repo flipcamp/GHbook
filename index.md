@@ -23,4 +23,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 [Crystal Peebles](peebles.html)  
 [Alexander R. Ludwig](ludwig.html)  
 [Timothy A. Johnson](johnson.html)  
-[Enoch S.A. Jacobus](jacobus.html)
+[Enoch S.A. Jacobus](jacobus.html)  
+[Bryn Hughes](hughes.html)
