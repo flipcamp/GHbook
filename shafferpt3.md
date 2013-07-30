@@ -29,7 +29,7 @@ Musallam recast Karplus’s Explore–Explain–Apply cycle in terms of “flipp
 
 Though developed in the context of high-school science courses, this inquiry-driven model is perfectly suited to university-level music courses, as evidenced by the following example of a species-counterpoint learning cycle.
 
-## A species-counterpoint learning cycle ##
+### A species-counterpoint learning cycle ###
 
 For each topic within the species counterpoint unit of my musicianship course this year (*cantus firmi* and each successive species), I provided students with two pages of exemplars—typically the model exercises provided at the end of each chapter in Salzer and Schachter’s *Counterpoint in Composition*. Students were asked to perform and analyze each exemplar with a partner during class (using the keyboard when necessary), attempting to find the general principles according to which a good exercise in that species is composed.
 
@@ -81,8 +81,7 @@ Notice that though students did not have the language of *preparation*, *suspens
 
 To fill in these gaps, and help students reflect on their own analysis, I archived student responses using [Storify](http://storify.com/). I then instructed them to read through the archive at home, read through a condensed instructional writing I composed myself, and return to the next class meeting ready to discuss any differences between the two and ready to attempt composing an exercise following the models provided. I also provided a short video demonstration of how to attempt the compositional process (making, and correcting, a few mistakes in the video, as well). Exploration of each species followed a similar pattern, where students discovered most of the important principles on their own, and gaps were filled and demonstrations provided via brief reading and video material consumed outside of class.
 
-Reflections on the inquiry-driven model
-================
+### Reflections on the inquiry-driven model ###
 
 In addition to making my job easier and more enjoyable (less lecture preparation, less grading outside of class, more face-to-face interaction with students) and achieving the same or better benchmarks of student success, this method has several distinct advantages for the students’ overall musicianship and intellectual growth. First, it gets the students to application tasks more quickly, putting the making of music at the center of study. Second, by minimizing direct instruction, it puts the onus on the student to manage their own learning, with the instructor offering expert guidance and correction as they work through the process of learning a new skill/style themselves. This is an important process for them to learn, if this class is to serve them for more than just the beginning of their careers. Third, it gets students used to using non-expert peers to help in the learning process, which also prepares them for the “real world.” And lastly, by tying performance both to the *analysis* and to the *application* phases, they learn to tie theory and practice, performance and composition. All in all, it has been a huge improvement to my pedagogy, benefiting both me and my students.
 
