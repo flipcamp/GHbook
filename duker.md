@@ -26,13 +26,14 @@ In addition to the benefits of using [“clickers”](http://www.cwsei.ubc.ca/re
  <!--> <![endif]-->
 </object>
 
-## Background ##
+### Background ###
+
 
 I first began using this method to see how well my students were able to apply formal terminology while listening. While many of them could point to measures in the score to tell me where certain formal sections started or ended (e.g., the 2nd group starts in m. 23), I wanted them to be able to apply these terms without a score as a visual aid. Before using clickers, I would project the “timeline” of the recording at the front of the class while listening, and ask students to write down timepoints when new sections began. While this is certainly a viable possibility, it does not let you know how the class is doing as a whole unless you collect and grade their work. I also experimented with getting students to submit an online form with mixed success. Having an online form allowed me to get an aggregate picture of how the students were understanding the form of a piece, but it was still impractical to use during class as it took too much time to process and organize the answers of that many people. Lastly, giving feedback to students after the class meeting is not as productive because many of them will have forgotten what they were thinking about during a listening exercise (even if earlier that day).
 
 When I first started using clickers in the core theory classes, I began experimenting with how students could apply sonata form concepts in real time. By opening up a multiple-choice poll and keeping it open while students were listening to a piece, I could see how the class (as a whole) was following the music. The students would click a new answer when they heard the piece move into a different formal section, and I would view their updated answers instantly as the software updated the histogram. I could immediately know what percentage of the class was recognizing the beginning of each formal section, and then address and discuss any unclear passages if needed.
 
-## Applications ##
+### Applications ###
 
 In addition to measuring how students apply formal concepts in real time, keeping the poll open is applicable to a number of other realms of the core theory curriculum. It can be used to track harmonic functions, as the following example illustrates:
 
@@ -55,7 +56,7 @@ As you might expect, using clickers in real time is also useful in aural skills 
 
 As I have used this technique more, I have become less concerned with capturing student answers for a nominal grade; rather I see it as a way to follow how well students are understanding and applying concepts while listening to music. Even when a class has wildly different answers from what I would have hoped, the experience becomes a good catalyst for discussing why the piece in question was difficult to parse aurally, and more generally how certain listening strategies can be more or less productive when engaging a given style.
 
-## How to get started? ##
+### How to get started? ###
 
 This technique of keeping the poll open builds off more general uses of a clicker system in the classroom. The first step to take if you are not already using clickers would be to get in touch with your IT department or otherwise find out if there is a campus-wide adoption of a clicker system. You might not choose to go with that vendor in the end, but if it will meet your needs, then your students will not need to purchase multiple devices for different classes, and you can rely on some IT support.
 

@@ -15,7 +15,7 @@ Bloom’s [taxonomy](http://screencasting3point0.wikispaces.com/file/view/blooms
 
 Music teachers can exercise higher levels of aural learning by supplementing textbook listening guides with targeted activities in and out of class. Streaming audio services like [Music Online](http://alexanderstreet.com/products/music-online-listening-package) (Alexander Street Press), [Spotify](https://www.spotify.com/us/), and the [NAXOS Music Library](http://www.naxosmusiclibrary.com/subscribe.asp), among others, permit the instructor to build alternate guides for each level of learning. 
 
-## Knowledge (Remembering) ##
+### Knowledge (Remembering) ###
 
 The foundation of Bloom’s taxonomy centers on recall of facts, methods and conventions, and principles. Knowledge playlists, therefore, include selections covered in textbook listening guides or discussed in class. The purpose of these examples for students is to confirm basic recognition of specific selections and audible parameters that define those examples. To succeed in achieving audible knowledge, students will identify a piece they have already studied and be able to confirm hearing important parameters identified in the listening guides or lecture notes.
 
@@ -29,7 +29,7 @@ A sample listening guide for a chapter on music in China from an undergraduate W
 
 While this sampling provides students with substantial introduction to important genres of music in China, learning to identify and distinguish these examples requires only foundational knowledge. Although there may be some similar aural components that are representative of a broader Chinese musical style, students are not prompted to understand the variations and diversity that could occur within each genre when reproducing given content on tests and exams.
 
-## Comprehension (Understanding) ##
+### Comprehension (Understanding) ###
 
 The next level of Bloom’s taxonomy moves beyond recall and requires students to have the ability to transfer and utilize core knowledge. Comprehension playlists include selections outside of the textbook listening guides and pieces discussed in class that are of the same type. These examples should resemble the model received by students in the knowledge playlist as closely as possible. Whereas students at the knowledge level can identify a memorized piece by ear and reproduce its salient traits by rote, the comprehension level requires students to confirm that a new example is of the same type and  possesses similar characteristics. Comprehension playlists should include only examples that closely match the learned paradigm for the student (i.e. the textbook example).
 
@@ -52,7 +52,7 @@ Unlike the Knowledge playlist, the comprehension playlist focuses on just one ge
 3. “Xun Feng Qu” (“Song of a Warm Southerly Breeze”)  
 4. “Mei Hua San Long” (Three Sections)
 
-## Application ##
+### Application ###
 
 Application playlists challenge students to make judgements and choices based on learned criteria in new situations. Unlike comprehension playlists, which include examples of shared traits, application playlists offer examples of the same or similar type that share some, but not all of the characteristics of the paradigm. Whereas students with comprehension learning can identify pieces by type and traits, students with application learning must weigh the pros and cons of applying a specific label to new examples. The items on these playlists do not fit the learned paradigm completely, but prompt students to make an informed decision.
 
@@ -65,7 +65,7 @@ The following application [playlist](http://open.spotify.com/user/1274395628/pla
 
 Students will consider each audible trait indicative of the paradigm and weigh the pros and cons of applying labels to examples that deviate. This process requires critical thinking and exercises judgement.
 
-## Analysis ##
+### Analysis ###
 
 Analysis playlists represent a high order of learning for undergraduate music majors, requiring students to evaluate the relationship of parts to the whole. While the instructor is responsible for developing comprehension and application playlists to supplement the memorized knowledge of textbook listening guides, students must move into a higher order of thinking by creating a new listening guide.
 

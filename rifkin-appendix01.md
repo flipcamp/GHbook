@@ -9,15 +9,15 @@ author: Deborah Rifkin, Ithaca College
 
 **{{ page.author }}**
 
-###Appendix 1 [(back to main article)](rifkin.html)
+_[(back to main article)](rifkin.html)_
 
-_A Sample Group Assessment with Collaborative Learning_
+### Appendix 1 ###
 
-Practicum \#2 - Music Phrases Through the Ages (a first-year seminar for non-music majors)
+_A Sample Group Assessment with Collaborative Learning. This assignment was used in a class called "Music Phrases Through the Ages," a first-year seminar for non-music majors._
 
 For each activity below, each student should be both a performer and a listener. When you have finished all activities, fill out the online form on Sakai for Practicum \#2.
 
-Activity 1: Rhythmic Accompaniment and Rounds
+### Activity 1: Rhythmic Accompaniment and Rounds ###
 
 Listeners:
 
@@ -37,7 +37,7 @@ Together:
 3.  If you can’t keep the round together, try simplifying the task to only rhythms.  Clap the rhythms of the song in round.
 4.   What do you notice about how the parts interact? Do they all move at the same time? Are some parts slower/faster than others?
 
-Activity 2: More Phrase Phun.
+### Activity 2: More Phrase Phun. ###
 
 Everyone together:
 

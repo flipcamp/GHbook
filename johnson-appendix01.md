@@ -9,7 +9,9 @@ author: Timothy A. Johnson, Ithaca College
 
 [**{{ page.author }}**](http://faculty.ithaca.edu/tjohnson/)
 
-####Paper Assignment-_Philadelphia_ [(back to main article)](johnson.html)
+_[(back to main article)](johnson.html)_
+
+###Paper Assignment-_Philadelphia_ 
 
 Write a short paper (approximately 5-6 pages, double-spaced typed) on the aria “La mamma morta” from Umberto Giordano’s opera _Andrea Chénier_ as used in the film _Philadelphia_. Your paper should focus primarily on musical analysis, but you must also put your analysis into the context of the libretto and the scene from the film in which the aria appears. You may write about broader themes in the film and/or the opera if you wish (but it is not required). In any case I will value specific observations over broad generalizations.
 
@@ -28,15 +30,13 @@ Get a translation separate from any score that you use. Translations in most sco
 
 Please see the following additional guidelines you must follow in this paper. Above all, remember, this is a musical analysis paper, and you need to be specific.
 
-####SOURCES
+### Sources
 
 1.  _Philadelphia_, Chapter 33 (1:20:56-1:29:18); watch the full clip, including the montage that continues beyond this [YouTube clip](http://www.youtube.com/watch?v=ojKKCRLEdYM) (with a reprise of the aria); full film available on DVD or streaming (viewing the full film is recommended, but not required for this assignment).
 2.  “La mamma morta,” [sound recording](http://www.youtube.com/watch?v=xXzeEfH6PTk); in addition many CD recordings are available (and you should listen to more than one performance).
 3.  “La mamma morta,” [piano vocal score](http://conquest.imslp.info/files/imglnks/usimg/9/9e/IMSLP36571-PMLP81470-Giordani_-_Andrea_Chenier_-_vocal_score.pdf) (pp. 186-92); the piano-vocal score of the complete opera is not required to be examined in full for this project.
 
-* * * * *
-
-####SOME GUIDELINES FOR FORMAT AND STYLE:
+### Some guidelines for format and style:
 
 1. __Title__: Try to be as specific as possible. Refer to the actual topic your paper addresses not just the name of the piece or film. Aim for a title that captures the important feature(s) of your paper. You probably will not be able to title your paper until after you have written it.
 
