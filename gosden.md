@@ -88,7 +88,7 @@ The need to assess student singing on a frequent and regular basis is one of the
 
 Other programs that conference participants have used to collect audio recordings of students’ sight singing exercises include [DropVox](http://www.irradiatedsoftware.com/dropvox/) and [SoundCloud](https://soundcloud.com/). However, these programs are not designed specifically for music educators, and do not offer the extensive recording/grading features that make SmartMusic such an effective tool.
 
-(Nevertheless, even fairly basic recording technology can still be very useful, as Trevor de Clercq explains [here](declerq.html).) 
+(Nevertheless, even fairly basic recording technology can still be very useful, as Trevor de Clercq explains [here](declercq.html).) 
 
 ### Social Media ###
 
@@ -112,7 +112,7 @@ While you may be familiar with commercial music notation programs such as Finale
 
 ### Free Audio Editing Software ###
 
-Like music notation software, audio editing software can cost a small fortune ... but it doesn't have to. Audacity is a free audio editor that performs many of the basic functions available in professional editing programs. It's a convenient way for you (and your students!) to edit sound files for presentations, assignments, and class projects. (Crystal Peebles discusses her use of Audacity-based activities to help students improve their aural analysis skills [here](peebles.html).)
+Like music notation software, audio editing software can cost a small fortune ... but it doesn't have to. [Audacity](http://audacity.sourceforge.net/) is a free audio editor that performs many of the basic functions available in professional editing programs. It's a convenient way for you (and your students!) to edit sound files for presentations, assignments, and class projects. (Crystal Peebles discusses her use of Audacity-based activities to help students improve their aural analysis skills [here](peebles.html).)
 
 ### Variations Audio Timeliner ###
 

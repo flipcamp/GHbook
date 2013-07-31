@@ -9,7 +9,7 @@ author: Timothy A. Johnson, Ithaca College
 
 [**{{ page.author }}**](http://faculty.ithaca.edu/tjohnson/)
 
-_[(back to main article)](johnson.html)_
+_[(Back to main article)](johnson.html)_
 
 ###Paper Assignment-_Philadelphia_ 
 
