@@ -33,22 +33,22 @@ While this sampling provides students with substantial introduction to important
 
 The next level of Bloom’s taxonomy moves beyond recall and requires students to have the ability to transfer and utilize core knowledge. Comprehension playlists include selections outside of the textbook listening guides and pieces discussed in class that are of the same type. These examples should resemble the model received by students in the knowledge playlist as closely as possible. Whereas students at the knowledge level can identify a memorized piece by ear and reproduce its salient traits by rote, the comprehension level requires students to confirm that a new example is of the same type and  possesses similar characteristics. Comprehension playlists should include only examples that closely match the learned paradigm for the student (i.e. the textbook example).
 
-**​2. A piece for Jiangnan Sizhu (“silk and bamboo” ensemble)**
+### 2. A piece for Jiangnan Sizhu (“silk and bamboo” ensemble) ###
 
-    Melody: Pentatonic with Circular Contour and Ornamental Expression
-    Texture: Heterophonic
-    Rhythm: Duple Meter; Slow to Fast Tempo
-    Form: Cyclical Variation with clapper (Ban) initiation
-    Timbre: 
-        Aerophones: Transverse flute (Dizi)/mouth organ (Sheng)
-        Chordophones (plucked): zither (Yangqin); lute (Pipa/Sanxian/Ruan)
-        Chordophones (bowed): (Erhu)
-        Membranophone-Idiophone: drum and clapper (Gu Ban)
+- Melody: Pentatonic with Circular Contour and Ornamental Expression  
+- Texture: Heterophonic  
+- Rhythm: Duple Meter; Slow to Fast Tempo  
+- Form: Cyclical Variation with clapper (Ban) initiation  
+- Timbre:   
+	- Aerophones: Transverse flute (Dizi)/mouth organ (Sheng)  
+	- Chordophones (plucked): zither (Yangqin); lute (Pipa/Sanxian/Ruan)  
+	- Chordophones (bowed): (Erhu)  
+	- Membranophone-Idiophone: drum and clapper (Gu Ban)  
 
 Unlike the Knowledge playlist, the comprehension playlist focuses on just one genre type and encourages students to recognize and identify the main aural parameters in multiple new pieces. Here is a new [playlist](http://open.spotify.com/user/1274395628/playlist/4Hu1YXmMFpjRL7WQd9qiIs) that includes four canonic examples of Jiangnan Sizhu that very closely match the given paradigm:
 
 1. “Yun Qing” (“Cloud Celebration”)  
-2. “Xing Jie” (“Strolling on the Street”)  
+2. “Xing Jie” (“Strolling on the Street”)  
 3. “Xun Feng Qu” (“Song of a Warm Southerly Breeze”)  
 4. “Mei Hua San Long” (Three Sections)
 
@@ -69,11 +69,11 @@ Students will consider each audible trait indicative of the paradigm and weigh t
 
 Analysis playlists represent a high order of learning for undergraduate music majors, requiring students to evaluate the relationship of parts to the whole. While the instructor is responsible for developing comprehension and application playlists to supplement the memorized knowledge of textbook listening guides, students must move into a higher order of thinking by creating a new listening guide.
 
-An analysis playlist is compiled by the student. Whereas the comprehension and application playlists focus on one main genre or type, the analysis playlist returns to the larger unit in order to recreate a variation on the guides in the textbook.
+An analysis playlist is compiled by the student. Whereas the comprehension and application playlists focus on one main genre or type, the analysis playlist returns to the larger unit in order to create a variation of the guides in the textbook.
 
 Advanced classes need not stop here. The learning experience may continue to the **Evaluation** and **Creating**—or highest—levels of learning. Encourage students to author listening guides to accompany the lists and reflect on the merits of the new guide with the one provided in the textbook. An open discussion with students on the purpose, value, and shortcomings of textbook listening guides in light of the exercise will illustrate the higher levels of Bloom’s taxonomy. The following resource at [Edudemic](http://www.edudemic.com/2012/11/35-digital-tools-that-work-with-blooms-taxonomy/) offers suggestions of digital tools to engage students in the evaluation and creating stages, namely the use of advanced storytelling and the evaluation and polling of peers.
 
-In order to create a constructive environment for learning and mastery, instructors should secure adequate resources. Most streaming music collections online will require either student or institution subscriptions. Spotify, for example, requires a premium account to create playlists—public playlists, though, are free to listeners—and the ability to create playlists on NAXOS requires an instructor account. Youtube, however, is freely acceptable to all but will require more explicit oversight and guidance from instructors.
+In order to create a constructive environment for learning and mastery, instructors should secure adequate resources. Most streaming music collections online will require either student or institution subscriptions. Spotify, for example, requires a premium account to create playlists—public playlists, though, are free to listeners—and the ability to create playlists on NAXOS requires an instructor account. Youtube, however, is freely accessible to all but will require more explicit oversight and guidance from instructors.
 
 Although the examples I provide come from a world music class for undergraduates, Bloom’s model also applies to listening in Western music history and form and analysis classes for undergraduates. As outlined for the Jiangnan Sizhu, conventions of Western classical music making and composition have also led to the development and instructional use of model forms, styles, and genres. Guiding students through Bloom’s levels across the curriculum will develop and reinforce the essential learning outcomes. While the time restraints of the semester system and ever-expanding curricula make it nearly impossible to guide students through parallel listening guides for each piece in the textbook, applying Bloom’s taxonomy to several examples will hone advanced listening skills, demonstrate where further mastery is possible, and encourage students to apply what they learn to real-life scenarios.
 

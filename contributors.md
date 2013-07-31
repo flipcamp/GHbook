@@ -29,7 +29,7 @@ Trevor de Clercq is currently Assistant Professor in the Recording Industry depa
 
 ### Philip Duker ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Philip Duker is Assistant professor of Music at the University of Delaware, where he joined the faculty in 2009.  His current research focuses on repetition in music from an analytical and meta-theoretical perspective, investigating how this topic is foundational to analysis and can also provide new avenues of exploration in Twentieth-Century music.
 
 ### Anna Gawboy ###
 
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 ### Alexander R. Ludwig ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Alexander R. Ludwig, Ph.D. (Brandeis University, 2010) teaches courses in music history at Boston College. His research interests include the development and evolution of sonata form, music theory and popular music. He currently serves as the secretary of the Haydn Society of North America, and he is an active cellist and pianist.
 
 ### Crystal Peebles ###
 

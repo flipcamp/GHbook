@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Twitter in the Music History Classroom
-author: Alexander R. Ludwig
+author: Alexander R. Ludwig, Boston College
 
 ---
 
@@ -49,7 +49,7 @@ As students tweet, they attempt to concretize their thoughts regarding musical p
 
 Increasingly, the use of Twitter has been met with fewer raised eyebrows as students — and other academics — become more comfortable with social media. (If you are unfamiliar with Twitter, please consult Ryan Cordell’s introduction at[ ](http://chronicle.com.resources.library.brandeis.edu/blogs/profhacker/how-to-start-tweeting-and-why-you-might-want-to/26065)[the Profhacker blog](http://chronicle.com.resources.library.brandeis.edu/blogs/profhacker/how-to-start-tweeting-and-why-you-might-want-to/26065) hosted by The Chronicle of Higher Education.) Creating a class hashtag (i.e., \#MUS101) is the simplest way to ensure maximum participation amongst your students. All tweets that include this hashtag will appear in the public stream. Active Twitter users can retain their original account without fear of invading the class stream with non-educational tweets as long as they do not include the class hashtag.
 
-A “protected” account is a more closed, and yet more versatile, option. It requires that you approve a “follower request” submitted by your students, after which they need to “follow” every other student in the course. Richer interactions occur when as many students as possible follow each other. This option eliminates the need for a class hashtag as detailed above. This does not mean, however, that you should forsake the hashtag altogether: you can now[ ](https://support.twitter.com/articles/49309-using-hashtags-on-twitter)[assign a hashtag](https://support.twitter.com/articles/49309-using-hashtags-on-twitter) for every assigned listening track (i.e., \#HandelMessiah, \#GlassKneeplay) because all the tweets of your class will appear in your stream — assuming, of course, that everyone is “following” everyone else. Searches by hashtag reveal group reactions to a particular piece; searches by student assess their individual contributions. In this scenario, I require pre-existing users of Twitter to create a new account specifically for class: the initial hassle of doing so decreases the likelihood of these students cross-posting from their personal account.
+A “protected” account is a more closed, and yet more versatile, option. It requires that you approve a “follower request” submitted by your students, after which they need to “follow” every other student in the course. Richer interactions occur when as many students as possible follow each other. This option eliminates the need for a class hashtag as detailed above. This does not mean, however, that you should forsake the hashtag altogether: you can now [assign a hashtag](http://www.hybridpedagogy.com/Journal/files/Hashtag_Classroom.html) for every assigned listening track (i.e., \#HandelMessiah, \#GlassKneeplay) because all the tweets of your class will appear in your stream — assuming, of course, that everyone is “following” everyone else. Searches by hashtag reveal group reactions to a particular piece; searches by student assess their individual contributions. In this scenario, I require pre-existing users of Twitter to create a new account specifically for class: the initial hassle of doing so decreases the likelihood of these students cross-posting from their personal account.
 
 ###Affective Responses
 
