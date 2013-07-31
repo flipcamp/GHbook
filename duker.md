@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Capturing Thinking in Time — Using “Clickers” to Measure Student Understanding
-author: Philip Duker
+author: Philip Duker, The University of Delaware
 ---
 
 {{ page.title }}
