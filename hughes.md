@@ -93,6 +93,8 @@ Music theory topics such as cadences, phrase structure, and form are easily deli
 
 I am not overly concerned about demonstrable correlations between PI or JiTT and exam scores. Exam scores are only one “piece of the puzzle,” and ultimately, our means of assessment should not be the guiding force on our pedagogy. JiTT and PI seem to encourage my students to have a more positive attitude and active engagement with the class. I have a more consistent line of communication open with my students, and I'm able to routinely evaluate my own teaching and lesson planning. These reasons make JiTT and PI beneficial enough for me.
 
+[(Part 1: The Basic Flip)](shafferpt1.html)  
+[(Part 3: Inquiry-Based Learning)](shafferpt3.html)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is copyright 2013 Bryn Hughes and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 

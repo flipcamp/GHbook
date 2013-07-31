@@ -29,4 +29,7 @@ Note one additional advantage of this model, at least for a voice-leading unit: 
 
 In many music topics, moving from lecture–homework to the “basic flip” is a simple transition, particularly if written and video resources do not need to be created. However, as mentioned above, the basic flip is often a gateway to more complex and customized versions of the inverted class. The following two essays provide two such models.
 
+[(Part 2: Just-in-Time Teaching and Peer Instruction)](hughes.html)  
+[(Part 3: Inquiry-Based Learning)](shafferpt3.html)  
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is copyright 2013 Kris Shaffer and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
