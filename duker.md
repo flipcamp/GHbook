@@ -14,7 +14,7 @@ In addition to the benefits of using [“clickers”](http://www.cwsei.ubc.ca/re
 <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"
        codebase="http://www.apple.com/qtactivex/qtplugin.cab"
        width="720" height="466">
- <param name="src" value="media/duker-videoGeneric.mp4" />
+ <param name="src" value="media/duker-genericvideofinal.mp4" />
  <param name="autoplay" value="false" />
  <param name="pluginspage" value="http://www.apple.com/quicktime/download/" />
  <param name="controller" value="true" />
@@ -40,7 +40,7 @@ In addition to measuring how students apply formal concepts in real time, keepin
 <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"
        codebase="http://www.apple.com/qtactivex/qtplugin.cab"
        width="720" height="466">
- <param name="src" value="media/duker-videoPhraseModel.mp4" />
+ <param name="src" value="media/duker-PhraseModelDemoFinal.mp4" />
  <param name="autoplay" value="false" />
  <param name="pluginspage" value="http://www.apple.com/quicktime/download/" />
  <param name="controller" value="true" />

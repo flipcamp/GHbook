@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 ### Carla Colletti ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Carla Colletti is Assistant Professor of music theory and Director of the Bachelor of Arts program in Music at Webster University in Saint Louis, MO.  Her research interests include music theory pedagogy, the music of Francis Poulenc, fin de siècle Europe, and connections between art, music, and poetry.  She is also a freelance oboist. 
 
 ### Trevor de Clercq ###
 
