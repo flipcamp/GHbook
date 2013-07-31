@@ -8,7 +8,7 @@ title: Table of Contents
 ================
 
 [Brian Alegant and Barbara Sawhill](alegantSawhill.html)  
-[Kevin Burke](burke.html)  
+[Kevin R. Burke](burke.html)  
 [Poundie Burstein](burstein.html)  
 [Carla Colletti](colletti.html)  
 [Trevor de Clercq](deClercq.html)  

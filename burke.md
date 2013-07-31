@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hacking the Listening Guides&#58; Bloom’s Taxonomy and Aural Learning
-author: Kevin R. Burke
+author: Kevin R. Burke, Franklin College
 ---
 
 {{ page.title }}
