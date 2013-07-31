@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flipping the classroom&#58; three methods – inquiry-based learning
+title: Inquiry-Based Learning
 author: Kris Shaffer, University of Colorado–Boulder
 ---
 

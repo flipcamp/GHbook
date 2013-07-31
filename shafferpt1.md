@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flipping the classroom&#58; three methods – the basic flip
+title: The Basic Flip
 author: Kris Shaffer, University of Colorado–Boulder
 ---
 

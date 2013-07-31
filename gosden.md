@@ -19,14 +19,14 @@ Finally, no one at the conference pretended to live in an academic utopia. We a
 
 With these considerations in mind, we can turn to some of the specific topics that were covered during the “Technology Tools” session.
 
-## Screencasting ##
+### Screencasting ###
 
-A screencast is a video recording of your computer screen’s output, usually accompanied by an audio commentary that you record simultaneously (or add in later). Although many people think of screencasting primarily as a way to create highly polished video lectures, it is important to recognize that screencasting is a flexible tool that can be used for a diverse range of pedagogical tasks. In addition to mini-lectures, it can be used for pre-class preparation (e.g., [JiTT](http://www.brynhughes.org/music/music%20theory/pedagogy/2013/06/12/just-in-time-teaching.html) assignments), post-class follow-up (e.g., tying up loose ends after an in-class discussion), homework assignments or class projects (including having students make their own screencasts), answering student questions, or providing feedback to students on homework and exams. (Kris Shaffer discusses the use of screencasting software for video grading [here](http://kris.shaffermusic.com/2012/04/video-grading-for-transcription-arranging-projects/). A general introduction to screencasting for educational purposes can be found [here](http://www.educause.edu/ero/article/screencasting-engage-learning).)
+A screencast is a video recording of your computer screen’s output, usually accompanied by an audio commentary that you record simultaneously (or add in later). Although many people think of screencasting primarily as a way to create highly polished video lectures, it is important to recognize that screencasting is a flexible tool that can be used for a diverse range of pedagogical tasks. In addition to mini-lectures, it can be used for pre-class preparation (e.g., [JiTT](hughes.html) assignments), post-class follow-up (e.g., tying up loose ends after an in-class discussion), homework assignments or class projects (including having students make their own screencasts), answering student questions, or providing feedback to students on homework and exams. (Kris Shaffer discusses the use of screencasting software for video grading [here](http://kris.shaffermusic.com/2012/04/video-grading-for-transcription-arranging-projects/). A general introduction to screencasting for educational purposes can be found [here](http://www.educause.edu/ero/article/screencasting-engage-learning).)
 
 As Phil Duker explained during the “Technology Tools” session, there are a few things to keep in mind when creating screencasts:
 
 - Not every screencast has to be the most beautiful thing you’ve ever created. Sometimes, quick and dirty videos can be just as informative as those on which you’ve spent hours and hours. Ask yourself: is the video you’re creating something that you’ll want to use every semester (e.g., a lesson on first-species counterpoint), or will it serve a one-time purpose (e.g., answering a specific student’s question)? If it’s the former, then you may want to invest a fair amount of time. But if it’s the latter, you’ll want to spend as little time as necessary.  
-- It can be tempting to overload individual screencasts with a lot of information. But short videos dealing with relatively narrow topics are what students tend to find the most useful. Indeed, some people argue that screencasts should be no more than 2–7 *minutes*, which means dividing larger topics (e.g., those that might be covered in a single 50-minute lecture) across several videos.  
+- It can be tempting to overload individual screencasts with a lot of information. But short videos dealing with relatively narrow topics are what students tend to find the most useful. Indeed, some people argue that screencasts should be no more than 2–7 minutes, which means dividing larger topics (e.g., those that might be covered in a single 50-minute lecture) across several videos.  
 - Some screencasting programs (e.g., Camtasia and ScreenFlow 4) are quite elaborate (and expensive), and provide a lot of recording and editing options. Others are quite basic (and free). If you want to spend a lot of time learning a complicated program in order to produce really high-quality videos, great! But recognize that you have other options.
 
 Below are links to some popular screencasting applications. (Be aware that your school may already have an institutional license to one of these products. Also, please note that most software programs are available at a reduced price for students and educators.)
@@ -62,9 +62,9 @@ Finally, for those who are new to screencasting (or those looking to hone their 
 - [“Data on Whether and How Students Watch Screencasts”](http://chronicle.com/blognetwork/castingoutnines/2013/04/04/data-on-whether-and-how-students-watch-screencasts/)
 - [“Who Does Screencasting Help the Most?”](http://chronicle.com/blognetwork/castingoutnines/2013/05/06/who-does-screencasting-help-the-most/)
 
-## Student Response Technology ##
+### Student Response Technology ###
 
-Student response systems (a.k.a. “clickers”) facilitate real-time assessment of student understanding in the classroom. Instructors can pose true or false, multiple choice, or short answer questions to their students (among other possibilities, depending on the program), see their students’ answers almost immediately (as well as collated data regarding correct/incorrect responses), assess their students’ understanding of a particular concept, and tailor the organization of their remaining class time accordingly. At FlipCamp Music Theory, there were several demonstrations of web-based applications (i.e., virtual clickers) and remote devices (i.e., physical clickers) that conference participants have used. Links to the websites for these applications/devices are given below. (Again, be aware that your school may already use one of these services.) In addition, you can read about Phil Duker’s use of clicker technology to help his students develop their aural analysis skills [here]().
+Student response systems (a.k.a. “clickers”) facilitate real-time assessment of student understanding in the classroom. Instructors can pose true or false, multiple choice, or short answer questions to their students (among other possibilities, depending on the program), see their students’ answers almost immediately (as well as collated data regarding correct/incorrect responses), assess their students’ understanding of a particular concept, and tailor the organization of their remaining class time accordingly. At FlipCamp Music Theory, there were several demonstrations of web-based applications (i.e., virtual clickers) and remote devices (i.e., physical clickers) that conference participants have used. Links to the websites for these applications/devices are given below. (Again, be aware that your school may already use one of these services.) In addition, you can read about Phil Duker’s use of clicker technology to help his students develop their aural analysis skills [here](duker.html).
 
 - [i\>Clicker](http://www1.iclicker.com/) – Conventional remotes as well as computer/mobile apps are available.
 - [Learning Catalytics](https://learningcatalytics.com/) – No app to download. Students log in via web browsers. (Student and departmental/institutional licenses are available. See [pricing](https://learningcatalytics.com/pages/pricing).)
@@ -72,7 +72,7 @@ Student response systems (a.k.a. “clickers”) facilitate real-time assessment
 - [Socrative](http://www.socrative.com/) – No app to download. Students log in via web browsers on their smartphones, tablets, or laptops.
 - [Turning Technologies](http://www.turningtechnologies.com/) – Conventional remotes as well as software downloads are available.
 
-## Music Streaming ##
+### Music Streaming ###
 
 When it comes to providing audio examples to the students in our classes, the days of being limited to the recordings in our music libraries (supplemented by our own personal CD collections) are well behind us. Not only do most colleges and universities subscribe to music streaming services such as the [Naxos Music Library](http://www.naxosmusiclibrary.com/home.asp?rurl=%2Fdefault.asp) or the Alexander Street Press’s [Classical Music Library](http://clmu.alexanderstreet.com/), but countless recordings are available as videos on [YouTube](https://www.youtube.com/) to anyone with an internet connection.
 
@@ -82,19 +82,23 @@ In addition, Brian discussed [Audio Hijack Pro](http://www.rogueamoeba.com/audio
 
 (For those concerned with issues of copyright infringement, the following websites provide introductory information about fair use and copyright law in the academy: Rene Hobbs’s [Copyright Clarity for the College Community](https://sites.google.com/a/udel.edu/wfi2012/renee-hobbs-workshop) and Stanford University Libraries’ [Copyright FAQ](http://fairuse.stanford.edu/overview/faqs/) and [Fair Use Guide](http://fairuse.stanford.edu/overview/fair-use/).)
 
-## Sight-Singing Assessment ##
+### Sight-Singing Assessment ###
 
 The need to assess student singing on a frequent and regular basis is one of the perennial challenges for those of us who teach aural skills classes. At FlipCamp Music Theory, Gretchen Foley discussed her use of [SmartMusic](http://www.smartmusic.com/) to assess sight singing exercises that her students perform and record each week outside of class. She explained how the program can provide instant feedback to students on the accuracy of their performances in terms of pitch and rhythm, as well as an approximate grade. Gretchen (or her teaching assistants) can then access students’ sound files both to confirm (or adjust) their grades and to evaluate the accuracy of their solfège. Not only does this free up a significant amount of class-time, it also helps students establish a more consistent routine for practicing their sight singing.
 
 Other programs that conference participants have used to collect audio recordings of students’ sight singing exercises include [DropVox](http://www.irradiatedsoftware.com/dropvox/) and [SoundCloud](https://soundcloud.com/). However, these programs are not designed specifically for music educators, and do not offer the extensive recording/grading features that make SmartMusic such an effective tool.
 
-## Social Media ##
+(Nevertheless, even fairly basic recording technology can still be very useful, as Trevor de Clercq explains [here](declerq.html).) 
+
+### Social Media ###
 
 While most of the “Technology Tools” session was geared toward the use of software specifically designed for educational/professional purposes, several individuals mentioned how social media (e.g., Twitter, Facebook, blogs), which most of our students use in their everyday personal lives, can be adapted to serve a pedagogical function—for instance, as an alternative to the online discussion forums provided by learning management systems. (See below for more on discussion forums.)
 
-In particular, Kris Shaffer discussed his use of [Twitter](https://twitter.com/) as part of what he calls the *analyze–access–assimilate–apply* model of the flipped classroom. Kris explained how his students would tweet their observations about species counterpoint in real time as they attempted to figure out the rules for writing good *cantus firmus* melodies. You can read about Kris’s experiment [here](http://kris.shaffermusic.com/2013/01/species-counterpoint-twitter-inquiry-based-learning-and-the-inverted-class/). ***This should be updated with a link to, and description of, essay included in this volume.***
+In particular, Kris Shaffer discussed his use of Twitter as part of an "inquiry-based" approach to teaching species counterpoint. Kris explained how his students would tweet their observations in real time as they attempted to figure out the rules for each species, after which Kris would consolidate their tweets and fill in any gaps in their collective understanding. Your can read about Kris's experiment (and about inquiry-based learning) [here](shafferpt3.html).
 
-## Additional Resources ##
+(Also, you can read about Alexander Ludwig's use of Twitter in music history classes as an alternative to traditional listening journals [here](ludwig.html).) 
+
+### Additional Resources ###
 
 Several other technology-related topics were touched on briefly during the conference. Below are links to various applications and online resources that were mentioned by the participants, and which may be of interest to readers.
 
@@ -105,6 +109,10 @@ While you may be familiar with commercial music notation programs such as Finale
 - [Finale NotePad](http://www.finalemusic.com/products/finale-notepad/)
 - [MuseScore](http://musescore.org/)
 - [Noteflight](http://www.noteflight.com/login) (This is a web-based music notation program. Although the basic version is free, there is a premium version, called [Crescendo](http://www.noteflight.com/info#/individual), that costs $7.95/mo. or $49/yr. Educational packages are also available.)
+
+### Free Audio Editing Software ###
+
+Like music notation software, audio editing software can cost a small fortune ... but it doesn't have to. Audacity is a free audio editor that performs many of the basic functions available in professional editing programs. It's a convenient way for you (and your students!) to edit sound files for presentations, assignments, and class projects. (Crystal Peebles discusses her use of Audacity-based activities to help students improve their aural analysis skills [here](peebles.html).)
 
 ### Variations Audio Timeliner ###
 

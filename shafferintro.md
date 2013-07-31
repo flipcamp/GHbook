@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flipping the classroom&#58; three methods
-author: Kris Shaffer, University of Colorado–Boulder and Bryn Hughes, University of Miami
+title: Flipping the Classroom&#58; Three Methods
+author: Kris Shaffer, University of Colorado–Boulder and Bryn Hughes, The University of Miami
 ---
 
 {{ page.title }}
