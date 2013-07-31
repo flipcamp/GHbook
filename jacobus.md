@@ -13,11 +13,11 @@ A great deal of the national conversation on education has centered on the lates
 
 ###Grammatica
 
->__grammar |ˈgramər|__ _noun_
+>__grammar |ˈgramər|__ _noun_
 >
 >the whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology  
 >
-ORIGIN late Middle English: from Old French gramaire, via Latin from Greek grammatikē (tekhnē) ‘(art) of letters,’ from gramma, grammat- ‘letter of the alphabet, thing written.’ 
+ORIGIN late Middle English: from Old French _gramaire_, via Latin from Greek _grammatikē (tekhnē) ‘(art) of letters,_’ from _gramma, grammat- ‘letter of the alphabet, thing written._’
 
 What do students normally think of as music theory? Probably what we in the discipline would only consider the “nuts and bolts.” Constructs like scales, intervals, and time signatures are these nuts and bolts, a kind of musical grammar. But so often my students think music theory is the identification of such things; that in labeling the Roman numerals or identifying the tone row they are “doing theory.” For a long time as an undergraduate, I thought that doing analysis meant accounting for and classifying every note in the score. I fear most students make that mistake, believing that information alone will get them through the gauntlet of the undergraduate music theory curriculum. And perhaps I am to blame for failing to dissuade them of that delusion. If the assignments I hand out and the exams I proctor are entirely focused on getting students to identify, define, and label musical data, then I can hardly blame them for thinking that’s all there is. Medieval scholars knew, as do we, that one may understand what a nail and hammer are, but knowing neither builds the house, nor makes it a particularly solid house. This brings us to dialectic.
 
@@ -27,7 +27,7 @@ What do students normally think of as music theory? Probably what we in the disc
 >
 >the art of investigating or discussing the truth of opinions.
 >
-ORIGIN late Middle English: from Old French dialectique or Latin dialectica, from Greek dialektikē (tekhnē) ‘(art) of debate,’ from dialegesthai ‘converse with.’
+ORIGIN late Middle English: from Old French _dialectique_ or Latin _dialectica_, from Greek _dialektikē (tekhnē) ‘(art) of debate_,’ from _dialegesthai ‘converse with._’
 
 
 Once we know what the materials are and what they do, how are they put together to form something we recognize as a house? What underlying logic makes sense of an assemblage of wood and nails? The second member of the trivium, dialectic (logic), helps us arrange information (the nuts and bolts) into meaningful patterns, so dialectic here does not mean merely syllogizing to win an argument. It is particularly relevant to music theory, which is predicated on the belief that there is an internal logic to the way music unfolds. When a new way of unfolding (in the colloquial sense, not the Schenkerian) is invented, music theorists work to unlock that logic. The cadential second-inversion triad is so called because it logically flows to the dominant just before a cadence. Some students get this; they are the ones who can transfer a concept learned in one example and apply it to a new one.
@@ -38,11 +38,11 @@ I, as a teacher, have a responsibility to draw students’ attention to the unde
 
 ###Rhetorica
 
->__rhetoric |ˈretərik|__ _noun_
+>__rhetoric |ˈretərik|__ _noun_
 >
 >the art of effective or persuasive speaking or writing, esp. the use of figures of speech and other compositional techniques.
 >
->ORIGIN Middle English: from Old French rethorique, via Latin from Greek rhētorikē (tekhnē) ‘(art) of rhetoric,’ from rhētōr ‘rhetor.’
+>ORIGIN Middle English: from Old French _rethorique_, via Latin from Greek _rhētorikē (tekhnē) ‘(art) of rhetoric,_’ from _rhētōr ‘rhetor._’
 
 Is the house well designed? Can we look at its structure and appreciate the architect’s gift for form and function, light and darkness, line and space? Can we design and build our own house? Rhetoric is the skillful employment of grammar and dialectic. In music theory it equips students to evaluate and draw out some significance to their analysis. Ultimately, it isn’t the labels that make me a musician; nor is it understanding the logic of musical mechanics. The rhetoric of music involves not only its technical correctness but also its artfulness.
 
@@ -56,7 +56,7 @@ Writing analytical prose can accomplish similar rhetorical goals, provided we en
 >
 >an introductory curriculum at a medieval university involving the study of grammar, logic, and rhetoric.
 >
->ORIGIN early 19th cent.: from Latin, literally ‘place where three roads meet,’ from tri- ‘three’ + via ‘road.’
+>ORIGIN early 19th cent.: from Latin, literally ‘_place where three roads meet,_’ from _tri- ‘three_’ + _via ‘road._’
 
 I have already implied that these three echelons of pedagogy are somewhat artificial because they can exist simultaneously. Ideally, the curriculum would entail cognitive progression operating on multiple levels. Even as each class period progressed from grammar to dialectic to rhetoric, on a larger scale, the school term would begin with heavy emphasis on grammar, gradually lean more on dialectic as the term continued, and finally end with greater practice in rhetoric—rather like the nested elements of a compound form. I think cognitive progression is the assumed direction of many music departments, but I am unaware of many that intentionally communicate this to students.
 

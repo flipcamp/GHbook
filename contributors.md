@@ -9,7 +9,7 @@ title: Contributors
 
 ### Brian Alegant ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Brian Alegant is Professor of Music Theory at the Oberlin College Conservatory. 
 
 ### Kevin R. Burke ###
 
@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 ### Stephen Gosden ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Stephen Gosden is an Assistant Professor of Music Theory at the University of North Florida. He previously taught at the Oberlin Conservatory of Music.
 
 ### Bryn Hughes ###
 
@@ -49,7 +49,7 @@ Enoch S. A. Jacobus, Ph.D. (University of Kentucky, 2012) holds interests in mus
 
 ### Timothy A. Johnson ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Timothy A. Johnson is Professor of Music Theory at Ithaca College.
 
 ### Alexander R. Ludwig ###
 
@@ -65,11 +65,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 ### Colin Roust ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Colin Roust holds degrees from the Universities of Missouri and Michigan, and has taught at both the Oberlin Conservatory and Roosevelt University's Chicago College of Performing Arts. His teaching and research interests focus primarily on issues of music and politics, and on the relationship of music and other arts in multimedia works (song, opera, dance, film, etc.). He is a co-editor of [The Routledge Film Music Sourcebook](http://www.routledge.com/books/details/9780415888745/) and a forthcoming translation of William Ritter's Etudes d'Art Etranger. 
 
 ### Barbara Sawhill ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Barbara Sawhill is Director of the Cooper International Learning Center and Lecturer of Hispanic Studies at Oberlin College.
 
 ### Peter Schubert ###
 
