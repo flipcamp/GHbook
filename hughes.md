@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flipping the classroom&#58; three methods – Just-in-Time Teaching and Peer Instruction
+title: Just-in-Time Teaching and Peer Instruction
 author: Bryn Hughes, The University of Miami
 ---
 
