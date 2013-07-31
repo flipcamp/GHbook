@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grammatica, Dialectica, Rhetorica&#58; the Trivium in Music Theory Pedagogy
-author: Enoch S. A. Jacobus
+author: Enoch S. A. Jacobus, Berea, Kentucky
 ---
 
 {{ page.title }}
@@ -64,6 +64,6 @@ Although the trivium may seem an archaic notion, one may find it surprisingly r
 
 This interpretive renewal of the trivium blends well with that of the inverted classroom. The lecture, often freighted with music's grammar, leaves little time for in-depth analysis or evaluation. The traditional lecture, like textbook reading, is essentially an info dump that, when moved outside of class, frees the class period for higher levels of cognition and musicality. For my part, I want students to graduate beyond the sterility of pedagogical examples to the organic, sometimes gritty, mysteries of real music as soon and as much as possible. What better way than to disseminate the basic information in pre-recorded lectures and model for them how music theory can enhance their listening experiences, performance decisions, compositions, and appreciation for those of others.
 
-(For further reading on this topic, [please see this article by Dorothy Sayers.](http://www.gbt.org/text/sayers.html))
+(For further reading on this topic, [please see this transcribed lecture by Dorothy Sayers.](http://www.gbt.org/text/sayers.html))
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is copyright 2013 Enoch Jacobus and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.

@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 [Brian Alegant and Barbara Sawhill](alegantSawhill.html)  
 [Kevin R. Burke](burke.html)  
-[Poundie Burstein](burstein.html)  
+[L. Poundie Burstein](burstein.html)  
 [Carla Colletti](colletti.html)  
 [Trevor de Clercq](deClercq.html)  
 [Philip Duker](duker.html)  
