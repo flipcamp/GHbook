@@ -24,30 +24,30 @@ Over the course of the semester, students completed ten listening assignments de
 
 __Example 1__: Recording in Audacity of Bach, French Suite No. 5, Gavotte with the corresponding label track marking cadential arrivals. This was the second listening assignment of the semester.
 
->1. Listen to the entire movement several times. Cadences 1 and 2 are exactly the same as which other two cadences?
-	a. 3 and 4
-	b. 5 and 6
-	c. 7 and 8
-2. Which of the following best describes the cadence at point 1?
-	a. I: IAC
-	b. I: HC
-	c. V: IAC
-	d. V: HC
-3. Which of the following best describes the cadence at point 2?
-	a. I: PAC
-	b. ii: PAC
-	c. IV: PAC
-	d. V: PAC
-4. Cadences 5 and 6 are in the same key. What is this key in relation to the home key?
-	a. i
-	b. ii
-	c. iii
-	d. vi
-5. The cadences at points 7 and 8 are best described as:
-	a. I: HC, I: PAC
-	b. IV: PAC, I: PAC
-	c. V: HC, I: IAC
-	d. vi: PAC, I: IAC
+>1. Listen to the entire movement several times. Cadences 1 and 2 are exactly the same as which other two cadences?  
+	a. 3 and 4  
+	b. 5 and 6  
+	c. 7 and 8  
+2. Which of the following best describes the cadence at point 1?  
+	a. I: IAC  
+	b. I: HC  
+	c. V: IAC  
+	d. V: HC  
+3. Which of the following best describes the cadence at point 2?  
+	a. I: PAC  
+	b. ii: PAC  
+	c. IV: PAC  
+	d. V: PAC  
+4. Cadences 5 and 6 are in the same key. What is this key in relation to the home key?  
+	a. i  
+	b. ii  
+	c. iii  
+	d. vi  
+5. The cadences at points 7 and 8 are best described as:  
+	a. I: HC, I: PAC  
+	b. IV: PAC, I: PAC  
+	c. V: HC, I: IAC  
+	d. vi: PAC, I: IAC  
 
 __Example 2__: Questions about tonal structure of Bach, French Suite No. 5, Gavotte
 
