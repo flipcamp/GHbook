@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 ### Kris Shaffer ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+[Kris Shaffer](http://kris.shaffermusic.com) is instructor of music theory at the [University of Colorado–Boulder](http://music.colorado.edu). Kris’s research centers around the music of twentieth- and twenty-first-century composers, computational analysis, and the pedagogy of music theory and aural skills. His research appears in [*Hybrid Pedagogy*](http://hybridpedagogy.com) and [*Digital Humanities Now*](http://digitalhumanitiesnow.org). He holds a Ph.D. in music theory from [Yale University](http://yalemusic.yale.edu) (2012).
 
 
 

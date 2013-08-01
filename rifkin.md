@@ -36,9 +36,11 @@ I grade the surveys pass/fail. If a student responds honestly and meaningfully t
 
 For students who have experienced both traditional hearings and my revised practicums, nearly all report that the practicums are less stressful and more fun. In the third question on the reporting form, which asks students if there is anything else they’d like to share with the teacher, students often describe how much more they like these group assessments compared to the traditional hearings. Here are a few typical student statements:
 
->*  “Thanks for making us do these this way...It is a much more relaxed environment.”
-*  “I think these practicums were very helpful. I could sit in a practice room for 3 hours and memorize everything I had to play or sing, [for a hearing,] but it does not have the same effect. I learn more by my mistakes in a comfortable learning environment with my peers than I do in a formal assessment setting with an instructor. I like learning from my mistakes and my peer's mistakes. It really makes the practicum interesting, fun, and informative!”
-* “Being a student with learning disabilities I am focused on how I learn and what styles of learning work best for me. One thing that stuck out with the practicums is that I retained the material much more than I would with material for hearings. I believe that because the high level of stress and anxiety that hearings often produce was missing during the practicums that material was retained. There often would be so much stress surrounding hearings that once the hearing process was over the material that was assessed was quickly forgotten.”
+>“Thanks for making us do these this way. . . . It is a much more relaxed environment.”  
+
+>“I think these practicums were very helpful. I could sit in a practice room for 3 hours and memorize everything I had to play or sing, [for a hearing,] but it does not have the same effect. I learn more by my mistakes in a comfortable learning environment with my peers than I do in a formal assessment setting with an instructor. I like learning from my mistakes and my peer's mistakes. It really makes the practicum interesting, fun, and informative!”  
+
+>“Being a student with learning disabilities I am focused on how I learn and what styles of learning work best for me. One thing that stuck out with the practicums is that I retained the material much more than I would with material for hearings. I believe that because the high level of stress and anxiety that hearings often produce was missing during the practicums that material was retained. There often would be so much stress surrounding hearings that once the hearing process was over the material that was assessed was quickly forgotten.”
 
 Importantly, students not only describe a less stressful environment, but they are also very specific about the higher quality learning, the diverse feedback, and a greater retention of material.
 

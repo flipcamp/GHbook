@@ -27,7 +27,7 @@ I tell the students it’s like when they start to take French in high school, a
 
 Student comments on their musical experiences can be helpful to other students and the teacher. I have learned a lot from students in sessions of this type. A couple of examples occurred recently when I was teaching _stretto fuga_, a technique for improvising a note-against-note canon after one note (this technique, practiced in the Renaissance by boys improvising in church, is the one demonstrated in the videos linked above). In my textbook, the melodic motions allowed for making stretto fuga are printed in a line of text, like this:
 
-> imitation at the fifth above: sing or write 1 3­  5­ 4¯ 2¯
+> imitation at the fifth above: sing or write 1 3↑ 5↑ 4↓ 2↓
 
 (This means the leading voice may stay on the same note move up a third or a fifth, or down a fourth or a second.)
 
