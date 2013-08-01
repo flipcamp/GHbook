@@ -65,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 ### Colin Roust ###
 
-Colin Roust holds degrees from the Universities of Missouri and Michigan, and has taught at both the Oberlin Conservatory and Roosevelt University's Chicago College of Performing Arts. His teaching and research interests focus primarily on issues of music and politics, and on the relationship of music and other arts in multimedia works (song, opera, dance, film, etc.). He is a co-editor of [The Routledge Film Music Sourcebook](http://www.routledge.com/books/details/9780415888745/) and a forthcoming translation of William Ritter's Etudes d'Art Etranger. 
+Colin Roust holds degrees from the Universities of Missouri and Michigan, and has taught at both the Oberlin Conservatory and Roosevelt University's Chicago College of Performing Arts. His teaching and research interests focus primarily on issues of music and politics, and on the relationship of music and other arts in multimedia works (song, opera, dance, film, etc.). He is a co-editor of [_The Routledge Film Music Sourcebook_](http://www.routledge.com/books/details/9780415888745/) and a forthcoming translation of William Ritter's _Etudes d'Art Etranger_. 
 
 ### Barbara Sawhill ###
 
