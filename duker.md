@@ -11,20 +11,7 @@ author: Philip Duker, The University of Delaware
 
 In addition to the benefits of using [“clickers”](http://www.cwsei.ubc.ca/resources/clickers.htm) (AKA student response systems) in a classroom to foster a more engaged environment (click [here](http://www.educause.edu/ero/article/clickers-and-cats-using-learner-response-systems-formative-assessments-classroom) for a quick intro), clickers also offer the opportunity to measure how students are understanding and processing information in real time. “Keeping the poll open” and asking students questions *while* they are listening/watching is a very useful way to find out how they are able to apply theoretical ideas. Although the examples in this essay focus on music, keeping the poll open could be applied to other time-based arts, or even in other disciplines when a teacher wants to observe how students are processing information as it changes. For a very generic example of this in action, see the following video:
 
-<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"
-       codebase="http://www.apple.com/qtactivex/qtplugin.cab"
-       width="720" height="466">
- <param name="src" value="media/duker-genericvideofinal.mp4" />
- <param name="autoplay" value="false" />
- <param name="pluginspage" value="http://www.apple.com/quicktime/download/" />
- <param name="controller" value="true" />
- <!--[if !IE]> <-->
-   <object data="media/duker-videoGeneric.mp4" width="720" height="466" type="video/quicktime" autoplay="false">
-     <param name="pluginurl" value="http://www.apple.com/quicktime/download/" />
-     <param name="controller" value="true" />
-   </object>
- <!--> <![endif]-->
-</object>
+<iframe src="http://player.vimeo.com/video/71473686" width="500" height="460" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> *[Generic Video (Philip Duker)](http://vimeo.com/71473686) from [FlipCamp](http://vimeo.com/user19882083) on [Vimeo](http://vimeo.com).*
 
 ### Background ###
 
@@ -37,20 +24,7 @@ When I first started using clickers in the core theory classes, I began experime
 
 In addition to measuring how students apply formal concepts in real time, keeping the poll open is applicable to a number of other realms of the core theory curriculum. It can be used to track harmonic functions, as the following example illustrates:
 
-<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"
-       codebase="http://www.apple.com/qtactivex/qtplugin.cab"
-       width="720" height="466">
- <param name="src" value="media/duker-PhraseModelDemoFinal.mp4" />
- <param name="autoplay" value="false" />
- <param name="pluginspage" value="http://www.apple.com/quicktime/download/" />
- <param name="controller" value="true" />
- <!--[if !IE]> <-->
-   <object data="media/duker-videoPhraseModel.mp4" width="720" height="466" type="video/quicktime" autoplay="false">
-     <param name="pluginurl" value="http://www.apple.com/quicktime/download/" />
-     <param name="controller" value="true" />
-   </object>
- <!--> <![endif]-->
-</object>
+<iframe src="http://player.vimeo.com/video/71473687" width="500" height="368" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> *[Phrase Model Demo (Philip Duker)](http://vimeo.com/71473687) from [FlipCamp](http://vimeo.com/user19882083) on [Vimeo](http://vimeo.com).*
 
 As you might expect, using clickers in real time is also useful in aural skills classes, such as asking students to indicate their hearing through [the Do/Ti test](http://www.slideshare.net/DanielBrianStevens/presentation5-how-to-hear-a-harmonic-progression-4897309) (Daniel Stevens’s creative development of the guide-tone method). I have also found it to be a useful tool for engaging students with regard to 20th-century music, by letting them rate pieces according to how dissonant/consonant they sound. Even more generally, keeping the poll open while you lecture can allow students to give you feedback if they are not following or understanding what you are presenting.
 
@@ -66,11 +40,11 @@ Once you have a clicker system up and running, you next need to decide on which 
 
 It is also important to limit the number of multiple choice options so as to not overwhelm the students (although building up a larger set of options slowly over the term is a possibility worth considering). For example, I use the following choices when asking students to indicate sections in the exposition of a sonata form:
 
-    A) 1st Group  
-    B) Transition  
-        (MC -optional)  
-    C) 2nd Group  
-    ​D) Coda
+>A) 1st Group  
+B) Transition  
+&nbsp;&nbsp;&nbsp;&nbsp;(MC – optional)  
+C) 2nd Group  
+D) Coda
 
 Having these four options is detailed enough to see whether they are following the exposition, while at the same time it does not overwhelm the students with too many choices. Further, by indicating when the Medial Caesura occurs (in some pieces), it gives them a landmark to get back on track if they hear that event.
 
