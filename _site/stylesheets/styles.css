@@ -3,10 +3,14 @@
 
 body {
   padding:50px;
-  font:18px/1.5 "Helvetica Neue", Helvetica, Arial, Lato, sans-serif;
+  font:18px/1.5 "Tahoma", Helvetica, Arial, Lato, sans-serif;
   color:#555;
   font-weight:300;
+<<<<<<< HEAD
   background:#eeeeee;
+=======
+  background:#FAFAFA;
+>>>>>>> 396f71e816b8241bc6a57f66a2ab8557e036f622
 }
 
 h1, h2, h3, h4, h5, h6 {
