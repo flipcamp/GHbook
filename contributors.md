@@ -41,7 +41,7 @@ Stephen Gosden is an Assistant Professor of Music Theory at the University of No
 
 ### Bryn Hughes ###
 
-[Bryn Hughes](www.brynhughes.org) is Assistant Professor of Practice at the [Frost School of Music at the University of Miami](http://www.miami.edu/frost/), where he teaches undergraduate and graduate courses in music theory. His research interests include music cognition, popular music, and music theory pedagogy. He has presented his research at numerous regional, national, and international conferences. He holds the Ph.D in music theory from Florida State University (2011).
+[Bryn Hughes](www.brynhughes.org) is Assistant Professor of Practice at the [Frost School of Music at the University of Miami](http://www.miami.edu/frost/), where he teaches undergraduate and graduate courses in music theory. His research interests include music cognition, popular music, and music theory pedagogy. He holds the Ph.D in music theory from Florida State University (2011).
 
 ### Enoch S. A. Jacobus ###
 
