@@ -27,7 +27,7 @@ _Kris Shaffer and Bryn Hughes_
 _Kevin R. Burke_  
 
 [The Silent Professor: Enhancing Student Engagement through the Conceptual Workshop](colletti.html)  
-_Carla Colletti_  
+_Carla R. Colletti_  
 
 [The film _Philadelphia_ and Umberto Giordano’s opera _Andrea Chénier_: A Contextual Approach to Analytical Writing](johnson.html)  
 _Timothy A. Johnson_  
