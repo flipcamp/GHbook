@@ -9,7 +9,7 @@ author: Kris Shaffer, University of Colorado–Boulder
 
 **{{ page.author }}**
 
-Though the basic flip, just-in-time teaching, and peer instruction all represent significant changes when compared with the lecture–homework approach, much of the underlying pedagogy remains the same. In his blog post,[“A Pedagogy-First Approach to the Flipped Classroom”](http://www.cyclesoflearning.com/9/post/2013/01/a-pedagogy-first-approach-to-the-flipped-classroom.html), Ramsey Musallam summarizes the basic flip, where the locations of pedagogical activities (in-class, out-of-class) are inverted, and then writes:
+Though the basic flip, just-in-time teaching, and peer instruction all represent significant changes when compared with the lecture–homework approach, much of the underlying pedagogy remains the same. In his blog post, [“A Pedagogy-First Approach to the Flipped Classroom”](http://www.cyclesoflearning.com/9/post/2013/01/a-pedagogy-first-approach-to-the-flipped-classroom.html), Ramsey Musallam summarizes the basic flip, where the locations of pedagogical activities (in-class, out-of-class) are inverted, and then writes:
 
 >Just because lecture happens in a different space doesn’t make it, in today’s information leviathan, a meaningful pedagogy. Yes, the self paced medium video provided was better than in-class lectures, and with more class time available for one-one-one assistance my students were solving harder problems more frequently and with greater accuracy. But, when I was honest with myself, I realized I was just employing a “high tech” version of the same didactic approach.
 

@@ -36,7 +36,7 @@ Other times, I might task one or multiple students to moderate the Twitter strea
 Does the repeated motif help distinguish the different parts of the song or did it make it more confusing to follow the piece?
 \#Beeth5mvt1
 
->>@MattFarnum
+>@MattFarnum
 @joy\_\_g The repeated motif helped to reinforce the Symphony’s sonata structure, bringing clarity to the piece. \#Beeth5mvt1
 
 These different tactics not only ensure a variety of answers and reactions, but also lay the foundation for a deeper engagement with the music.
