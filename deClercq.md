@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Towards a Flipped Aural Skills Classroom — Harnessing Recording Technology for Performance-Based Homework
+title: Towards a Flipped Aural Skills Classroom&#58; Harnessing Recording Technology for Performance-Based Homework
 author: Trevor de Clercq, Middle Tennessee State University
 ---
 

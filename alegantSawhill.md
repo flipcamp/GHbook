@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making the Grade (Or Not) — Thoughts on Self-Design, Self-Assessment, and Self-Grading
+title: Making the Grade (Or Not)&#58; Thoughts on Self-Design, Self-Assessment, and Self-Grading
 author: Brian Alegant (Music Theory) and Barbara Sawhill (Hispanic Studies), Oberlin College
 ---
 
