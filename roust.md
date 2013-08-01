@@ -28,7 +28,11 @@ In each case, the addition of language brings new, richer meaning to the static 
 
 I have taught film music courses as both semester-long offerings at Oberlin College and as 6-week summer courses at Roosevelt University. At Oberlin, the classes generally consisted of a balanced mix of music majors and non-music majors, with only the occasional film major. At Roosevelt, all of the students (so far) have majored in subjects other than music and film studies. Regardless of the institution or the students’ majors, however, I find that most of them come into the course believing that certain music is “right” for a given film scene. What they are initially reluctant to accept is that there is always more than one “right” music for that scene. Indeed, the perception of music and images together shapes the meaning of the audiovisual scene, so that the whole is greater than the sum of its parts.
 
-To demonstrate this point, I begin the course by playing a [25-second, stock-footage video of military jets](https://docs.google.com/file/d/0B5qQsOBXLwvxc2hBTFNHM0M3NTg). Without sound, the clip could be anything, much like the photo at the beginning of this essay. But once music is added, the students quickly put the clip into a larger (imagined) narrative. For example, when they see the planes and hear [Kenny Loggins’s “Danger Zone,”](http://www.youtube.com/watch?v=yK0P1Bk8Cx4) the students describe the pilots as hot shots or “bad boy” heroes, much like Tom Cruise’s Maverick or Val Kilmer’s Ice Man in [Top Gun](http://www.imdb.com/title/tt0092099/). With [Dmitri Tiomkin’s song “Mission Accomplished,”](http://youtu.be/1XHD2O_A7EM?t=3m10s) from [The Guns of Navarone](http://www.imdb.com/title/tt0054953/), the students describe the jets as having just won a battle. Philip Glass’s [“Pruitt Igoe,”](http://grooveshark.com/s/Pruitt+Igoe/2gQc63?src=5) a cue from [Koyaanisqatsi](http://www.imdb.com/title/tt0085809/), generates tension for most students; the pilots are waiting, anticipating something. [“Running One,”](http://grooveshark.com/s/Running+One+Johnny+Klimek+Reinhold+Heil+Tom+Tykwer/4dDBh5?src=5) from Tom Tykwer’s score for [Run, Lola, Run](http://www.imdb.com/title/tt0130827/) generates a different kind of tension. Some of the fighter pilots are now perceived as menacing, threatening villains.
+To demonstrate this point, I begin the course by playing a 25-second, stock-footage video of military jets: 
+
+<iframe src="http://player.vimeo.com/video/71516784" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> *[Added Value Clip (Colin Roust)](http://vimeo.com/71516784) from [FlipCamp](http://vimeo.com/user19882083) on [Vimeo](http://vimeo.com).*
+
+Without sound, the clip could be anything, much like the photo at the beginning of this essay. But once music is added, the students quickly put the clip into a larger (imagined) narrative. For example, when they see the planes and hear [Kenny Loggins’s “Danger Zone,”](http://www.youtube.com/watch?v=yK0P1Bk8Cx4) the students describe the pilots as hot shots or “bad boy” heroes, much like Tom Cruise’s Maverick or Val Kilmer’s Ice Man in [Top Gun](http://www.imdb.com/title/tt0092099/). With [Dmitri Tiomkin’s song “Mission Accomplished,”](http://youtu.be/1XHD2O_A7EM?t=3m10s) from [The Guns of Navarone](http://www.imdb.com/title/tt0054953/), the students describe the jets as having just won a battle. Philip Glass’s [“Pruitt Igoe,”](http://grooveshark.com/s/Pruitt+Igoe/2gQc63?src=5) a cue from [Koyaanisqatsi](http://www.imdb.com/title/tt0085809/), generates tension for most students; the pilots are waiting, anticipating something. [“Running One,”](http://grooveshark.com/s/Running+One+Johnny+Klimek+Reinhold+Heil+Tom+Tykwer/4dDBh5?src=5) from Tom Tykwer’s score for [Run, Lola, Run](http://www.imdb.com/title/tt0130827/) generates a different kind of tension. Some of the fighter pilots are now perceived as menacing, threatening villains.
 
 This exercise encourages students to experience the significance of added value. No musical cue is inherently, essentially “right” for a given image. Rather, somebody _chose_ to combine this music with that image. The apparent “rightness” or “naturalness” of that artistic choice shapes our perception and, ultimately, guides our interpretation and understanding of what is happening.
 
@@ -50,29 +54,37 @@ I provide each student/team with one blank DVD and with a copy of a film that is
 
 The project is introduced with a discussion of scoring strategies based on Fred Karlin’s [_Listening to Movies_ (1994, 78–84)](http://books.google.com/books?id=2h4JAQAAMAAJ): playing the drama, hitting the action, playing through the action, phrasing the drama, and playing the psychological subtext. In addition to discussing concepts such as spotting and sync points, we focus on the three strategies used to create scores during the silent era: composing an original score, improvising an accompaniment, and compiling a score from any pre-existing music of their choice. Students are free to select any of these strategies, though any improvised scores must be recorded and synchronized on the finished DVD, rather than performed live in class. The prompt for the project follows the standard procedure for producing commercial films:
 
-_Production phase_
+#### Production phase ####
 
 Already completed when the students are handed the fine cut of the film (edited images without any sound).
 
-_Spotting session_
+#### Spotting session ####
 
 While watching the film, each student/team decides what kind of music to use for each cue, when each cue should begin and end, what sync points they want to emphasize, and whether or not to include any sound effects or dialogue. (The sound effects and dialogue are not explicitly encouraged, but are not prohibited.) At this point, the student/team creates the cue sheet to use as an editing script.
 
-_Post-production_
+#### Post-production ####
 
 Using basic video editing software, the student/team creates and adds a soundtrack to their film. If any changes to the plan are made, the cue sheet must be revised to reflect the final cut of the film.
 
-_Distribution_
+#### Distribution ####
 
 Using DVD authoring software (such as iMovie or Windows DVD Maker), the student/team creates a finished DVD of their film.
 
-_Exhibition_
+#### Exhibition ####
 
 Each film is screened in-class. The student/team gives a short presentation—no longer than five minutes—about the creative decisions made in creating their score. Discussion after each screening is focused on the clarity and execution of the artistic vision, and on a comparison with the other scores created for the same film.
 
 ### Final Product ###
 
-Each student/team submits a finished DVD of their now-synchronized-sound film and a simple cue sheet (see Example 2) for their score. When students work in a production team, I also have them write a short, three-to-five-page analysis paper comparing their score to their colleagues’ scores for the same film. As an example, a business major with no background in film studies or music courses chose to create [a compiled score using various pieces of classical music](https://docs.google.com/file/d/0B5qQsOBXLwvxUGMzek1BWF96YzQ/edit?usp=sharing). With the length and slower pacing of the cues, the student sought to balance the faster activity of the images, giving a greater sense of continuity to each stage in the plot’s development. In contrast, a psychology major in the class aimed for [an “authentic” nickelodeon feel by using “old timey” piano music](https://docs.google.com/file/d/0B5qQsOBXLwvxWHpKdFBWSl9sTHc/edit?usp=sharing). The editing of this student’s score had faster pacing and more sync points, responding to key moments in each scene. This student also relied on a contrast of major and minor modes to suggest the inherent innocence of the beggar and the evilness of the hand.  
+Each student/team submits a finished DVD of their now-synchronized-sound film and a simple cue sheet (see Example 2) for their score. When students work in a production team, I also have them write a short, three-to-five-page analysis paper comparing their score to their colleagues’ scores for the same film. As an example, a business major with no background in film studies or music courses chose to create a compiled score using various pieces of classical music: 
+
+<iframe src="http://player.vimeo.com/video/71516838" width="500" height="377" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> *[Student Project #1](http://vimeo.com/71516838) from [FlipCamp](http://vimeo.com/user19882083) on [Vimeo](http://vimeo.com).*
+
+With the length and slower pacing of the cues, the student sought to balance the faster activity of the images, giving a greater sense of continuity to each stage in the plot’s development. In contrast, a psychology major in the class aimed for an “authentic” nickelodeon feel by using “old timey” piano music:
+
+<iframe src="http://player.vimeo.com/video/71516839" width="500" height="379" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> *[Student Project #2](http://vimeo.com/71516839) from [FlipCamp](http://vimeo.com/user19882083) on [Vimeo](http://vimeo.com).*
+
+The editing of this student’s score had faster pacing and more sync points, responding to key moments in each scene. This student also relied on a contrast of major and minor modes to suggest the inherent innocence of the beggar and the evilness of the hand.  
 
 <img src="image00.png">*Cue Sheet Template distributed as a Microsoft Excel file*.
 
