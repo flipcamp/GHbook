@@ -1,9 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic,700italic);
+@import url(http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic);
 
 body {
   padding:50px;
-  font:18px/1.5 "Helvetica Neue", Helvetica, Arial, Lato, sans-serif;
+  font:18px/1.5 "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, Lato, sans-serif;
   color:#555;
   font-weight:300;
 }
@@ -55,7 +55,8 @@ blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
   padding:0 0 0 20px;
-  font-size:90%;
+  font-size:80%;
+  font-family: Lora, serif;
 }
 
 code, pre {
