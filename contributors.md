@@ -13,7 +13,7 @@ Brian Alegant is Professor of Music Theory at the Oberlin College Conservatory.
 
 ### Kevin R. Burke ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Kevin R. Burke is Assistant Professor of Music at Franklin College, where he teaches courses in music history, music theory, and world music. He has presented research on early 19th-Century German opera reception and on pedagogy at regional, national, and international conferences and his work is published in Music Research Forum and Ethnomusicology. He holds a Ph.D. in musicology from the College-Conservatory of Music at the University of Cincinnati.
 
 ### L. Poundie Burstein ###
 
