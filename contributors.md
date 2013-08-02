@@ -17,7 +17,7 @@ Kevin R. Burke is Assistant Professor of Music at Franklin College, where he tea
 
 ### L. Poundie Burstein ###
 
-L. Poundie Burstein is Professor of Music Theory at Hunter College and the Graduate Center of the City University of New York.
+L. Poundie Burstein is Professor of Music Theory at Hunter College and the Graduate Center of the City University of New York.  
 
 ### Carla R. Colletti ###
 
