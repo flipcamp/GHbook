@@ -88,7 +88,7 @@ The need to assess student singing on a frequent and regular basis is one of the
 
 Other programs that conference participants have used to collect audio recordings of students’ sight singing exercises include [DropVox](http://www.irradiatedsoftware.com/dropvox/) and [SoundCloud](https://soundcloud.com/). However, these programs are not designed specifically for music educators, and do not offer the extensive recording/grading features that make SmartMusic such an effective tool.
 
-(Nevertheless, even fairly basic recording technology can still be very useful, as Trevor de Clercq explains [here](declercq.html).) 
+(Nevertheless, even fairly basic recording technology can still be very useful, as Trevor de Clercq explains [here](deClercq.html).) 
 
 ### Social Media ###
 
