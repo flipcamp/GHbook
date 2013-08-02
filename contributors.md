@@ -13,11 +13,11 @@ Brian Alegant is Professor of Music Theory at the Oberlin College Conservatory.
 
 ### Kevin R. Burke ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Kevin R. Burke is Assistant Professor of Music at Franklin College, where he teaches courses in music history, music theory, and world music. He has presented research on early 19th-Century German opera reception and on pedagogy at regional, national, and international conferences and his work is published in Music Research Forum and Ethnomusicology. He holds a Ph.D. in musicology from the College-Conservatory of Music at the University of Cincinnati.
 
 ### L. Poundie Burstein ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+L. Poundie Burstein is Professor of Music Theory at Hunter College and the Graduate Center of the City University of New York.  
 
 ### Carla R. Colletti ###
 
@@ -61,11 +61,11 @@ Crystal Peebles received a B.M. in Music Education from East Carolina University
 
 ### Deborah Rifkin ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Deborah Rifkin is Associate Professor of music theory at Ithaca College. 
 
 ### Colin Roust ###
 
-Colin Roust holds degrees from the Universities of Missouri and Michigan, and has taught at both the Oberlin Conservatory and Roosevelt University's Chicago College of Performing Arts. His teaching and research interests focus primarily on issues of music and politics, and on the relationship of music and other arts in multimedia works (song, opera, dance, film, etc.). He is a co-editor of [_The Routledge Film Music Sourcebook_](http://www.routledge.com/books/details/9780415888745/) and a forthcoming translation of William Ritter's _Etudes d'Art Etranger_. 
+Colin Roust is an Assistant Professor of Music History at Roosevelt University's Chicago College of Performing Arts. He holds degrees from the Universities of Missouri and Michigan, and previously taught at the Oberlin Conservatory. His teaching and research interests focus primarily on issues of music and politics, and on the relationship of music and other arts in multimedia works (song, opera, dance, film, etc.). He is a co-editor of [_The Routledge Film Music Sourcebook_](http://www.routledge.com/books/details/9780415888745/) and a forthcoming translation of William Ritter's _Etudes d'Art Etranger_. 
 
 ### Barbara Sawhill ###
 
@@ -73,7 +73,7 @@ Barbara Sawhill is Director of the Cooper International Learning Center and Lect
 
 ### Peter Schubert ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Peter Schubert teaches at McGill University's Schulich School of Music. He has published articles and textbooks on counterpoint, and conducts VivaVoce, a professional ensemble in Montreal.
 
 ### Kris Shaffer ###
 
