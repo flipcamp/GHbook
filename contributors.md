@@ -73,7 +73,7 @@ Barbara Sawhill is Director of the Cooper International Learning Center and Lect
 
 ### Peter Schubert ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Peter Schubert teaches at McGill University's Schulich School of Music. He has published articles and textbooks on counterpoint, and conducts VivaVoce, a professional ensemble in Montreal.
 
 ### Kris Shaffer ###
 
