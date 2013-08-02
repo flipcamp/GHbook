@@ -17,7 +17,7 @@ Kevin R. Burke is Assistant Professor of Music at Franklin College, where he tea
 
 ### L. Poundie Burstein ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+L. Poundie Burstein is Professor of Music Theory at Hunter College and the Graduate Center of the City University of New York.
 
 ### Carla R. Colletti ###
 
@@ -61,7 +61,7 @@ Crystal Peebles received a B.M. in Music Education from East Carolina University
 
 ### Deborah Rifkin ###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua.
+Deborah Rifkin is Associate Professor of music theory at Ithaca College. 
 
 ### Colin Roust ###
 
