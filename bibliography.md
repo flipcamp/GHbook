@@ -177,7 +177,7 @@ http://audrey-mcsquared.blogspot.com.
 Michaelsen, Larry K., and L. Dee Fink. 2004. [“Calculating Peer
 Evaluation Scores.”](http://books.google.com/books?id=8S8efQkqeqIC&printsec=frontcover&dq=Team-Based+Learning:+A+Transformative+Use+of+Small+Groups+in+College+Teaching&hl=en&sa=X&ei=iC_4Ua-CJqHi4AO6m4GgBQ&ved=0CC8Q6AEwAA#v=onepage&q=Team-Based%20Learning%3A%20A%20Transformative%20Use%20of%20Small%20Groups%20in%20College%20Teaching&f=false) In *Team-Based Learning: A Transformative Use of
 Small Groups in College Teaching*, edited by Larry K. Michaelsen, Arletta
-Bauman Knight, and L. Dee Fink, 233-44. Westport, CT: Greenwood
+Bauman Knight, and L. Dee Fink, 233–44. Westport, CT: Greenwood
 Publishing Group.
 
 Mitchell, Nancy. 2011. [“Evaluation and Performance Anxiety in Music
@@ -204,7 +204,7 @@ http://jfmueller.faculty.noctrl.edu/toolbox/.
 Musallam, Ramsey. 2013. [“A Pedagogy-First Approach to the Flipped
 Classroom.”](http://www.cyclesoflearning.com/9/post/2013/01/a-pedagogy-first-approach-to-the-flipped-classroom.html) *Personal blog*. January 5. Accessed August 2, 2013. http://www.cyclesoflearning.com/9/post/2013/01/a-pedagogy-first-approach-to-the-flipped-classroom.html.
 
-[National Association of Schools of Music Handbook](http://nasm.arts-accredit.org/index.jsp?page=Standards-Handbook), 2012-2013. Accessed
+[National Association of Schools of Music Handbook](http://nasm.arts-accredit.org/index.jsp?page=Standards-Handbook), 2012–2013. Accessed
 June 24, 2013. http://nasm.arts-accredit.org/index.jsp?page=Standards-Handbook.
 
 Neumann, Johannes. 1933. [*Angst und Krankheit vor dem Examen. Wesen,
@@ -306,7 +306,7 @@ Smith, Lisa F., and Jeffrey K. Smith. 2002. [“Relation of Test-Specific
 Motivation and Anxiety to Test Performance.”](http://www.amsciepub.com/doi/abs/10.2466/pr0.2002.91.3.1011) *Psychological Reports* 91:
 1011–21.
 
-Stevens, Daniel B. 2013. ["Symphonic Hearing: Listening as Active Participation."](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit) Paper presented at at the annual meeting of Music Theory Midwest, Norman, Oklahoma, April 26-27.
+Stevens, Daniel B. 2013. ["Symphonic Hearing: Listening as Active Participation."](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit) Paper presented at at the annual meeting of Music Theory Midwest, Norman, Oklahoma, April 26–27.
 
 Stevens, Robert. J., and Robert E. Slavin. 1995. [“The Cooperative
 Elementary School: Effects on Students’ Achievement, Attitudes, and
