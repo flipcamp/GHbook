@@ -254,3 +254,8 @@ footer {
     color:#444;
   }
 }
+
+.hangingindent {
+	padding-left:20px;
+	text-indent:-20px;
+}

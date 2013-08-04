@@ -41,7 +41,7 @@ Gretchen Foley, University of Nebraska–Lincoln
 Anna Gawboy, Ohio State University  
 Stephen Gosden, University of North Florida  
 Bryn Hughes, University of Miami, coordinator  
-Enoch Jacobus, independent scholar, Berea, Kentucky  
+Enoch Jacobus, Berea, Kentucky  
 Brian Moseley, Furman University  
 Meghan Naxer, University of Oregon  
 Deborah Rifkin, Ithaca College  
