@@ -21,7 +21,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 [Philip Duker](duker.html), The University of Delaware  
 [Anna Gawboy](gawboy.html), The Ohio State University  
 [Stephen Gosden](gosden.html), University of North Florida  
-[Bryn Hughes](shafferintro.html), University of Miami  
+[Bryn Hughes](shafferintro.html), The University of Miami  
 [Alexander R. Ludwig](ludwig.html), Boston College  
 [Enoch S. A. Jacobus](jacobus.html), Berea, Kentucky  
 [Timothy A. Johnson](johnson.html), Ithaca College  
