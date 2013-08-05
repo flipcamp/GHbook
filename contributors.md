@@ -21,7 +21,7 @@ title: Contributors
 
 ### Carla R. Colletti ###
 
-[Carla R. Colletti](http://www2.webster.edu/finearts/music/Fac_Colletti_C.shtml) is Assistant Professor of music theory and Director of the Bachelor of Arts program in Music at [Webster University in Saint Louis, MO](http://www.webster.edu/fine-arts/departments/music/index.html). Her research interests include music theory pedagogy, the music of Francis Poulenc, fin de siècle Europe, and connections between art, music, and poetry.  She is also a freelance oboist. 
+[Carla R. Colletti](http://www2.webster.edu/finearts/music/Fac_Colletti_C.shtml) is Assistant Professor of music theory and Director of the Bachelor of Arts program in Music at [Webster University in Saint Louis, MO](http://www.webster.edu/fine-arts/departments/music/index.html). Her research interests include music theory pedagogy, the music of Francis Poulenc, *fin de siècle* Europe, and connections between art, music, and poetry.  She is also a freelance oboist. 
 
 ### Trevor de Clercq ###
 
