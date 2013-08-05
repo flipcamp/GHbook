@@ -62,6 +62,8 @@ Already completed when the students are handed the fine cut of the film (edited 
 
 While watching the film, each student/team decides what kind of music to use for each cue, when each cue should begin and end, what sync points they want to emphasize, and whether or not to include any sound effects or dialogue. (The sound effects and dialogue are not explicitly encouraged, but are not prohibited.) At this point, the student/team creates the cue sheet to use as an editing script.
 
+<img src="image00.png">*Cue Sheet Template distributed as a Microsoft Excel file*.
+
 #### Post-production ####
 
 Using basic video editing software, the student/team creates and adds a soundtrack to their film. If any changes to the plan are made, the cue sheet must be revised to reflect the final cut of the film.
@@ -76,7 +78,7 @@ Each film is screened in-class. The student/team gives a short presentation—no
 
 ### Final Product ###
 
-Each student/team submits a finished DVD of their now-synchronized-sound film and a simple cue sheet (see Example 2) for their score. When students work in a production team, I also have them write a short, three-to-five-page analysis paper comparing their score to their colleagues’ scores for the same film. As an example, a business major with no background in film studies or music courses chose to create a compiled score using various pieces of classical music: 
+Each student/team submits a finished DVD of their now-synchronized-sound film and a simple cue sheet for their score. When students work in a production team, I also have them write a short, three-to-five-page analysis paper comparing their score to their colleagues’ scores for the same film. As an example, a business major with no background in film studies or music courses chose to create a compiled score using various pieces of classical music: 
 
 <iframe src="http://player.vimeo.com/video/71516838" width="500" height="377" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> *[Student Project #1](http://vimeo.com/71516838) from [FlipCamp](http://vimeo.com/user19882083) on [Vimeo](http://vimeo.com).*
 
@@ -85,8 +87,6 @@ With the length and slower pacing of the cues, the student sought to balance the
 <iframe src="http://player.vimeo.com/video/71516839" width="500" height="379" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> *[Student Project #2](http://vimeo.com/71516839) from [FlipCamp](http://vimeo.com/user19882083) on [Vimeo](http://vimeo.com).*
 
 The editing of this student’s score had faster pacing and more sync points, responding to key moments in each scene. This student also relied on a contrast of major and minor modes to suggest the inherent innocence of the beggar and the evilness of the hand.  
-
-<img src="image00.png">*Cue Sheet Template distributed as a Microsoft Excel file*.
 
 Every time that I assign this project, I am consistently pleased and excited by the creativity and critical thought demonstrated by my students. In one particularly memorable case, four production teams had been given the same scene from [_White Shadows in the South Seas_](http://www.imdb.com/title/tt0019574), at the arrival of Sebastian’s ship arrives on an island in the South Pacific. The scene begins with the islanders gathering on the beach as Sebastian is rowed ashore by his men. Dr. Lloyd sits on the beach, clearly unhappy. The two angrily confront each other and eventually come to blows. When one of Sebastian’s sailors shoots Lloyd, the islanders run in panic. In the chaos, Lloyd finds the chief’s daughter and dies in her arms. One of the student scores used cliché melancholy and love cues to focus our attention on Dr. Lloyd, the marooned, alcoholic doctor who had fallen in love with an indigenous girl and who feared that the arrival of whites would ruin the island paradise. Another score contrasted romantic-era orchestral music with percussion-dominated pieces to emphasize the indigenes as primitive and savage. Yet another used cues from a variety of action and war films to emphasize Sebastian’s crew as ruthless invaders and the indigenes as sympathetic victims. Due to an overabundance of sync points, this score made the scene feel like a Keystone Kops-style comedy. The final score consisted entirely of popular songs that had been selected based on a perceived link between the action on screen and the song’s title or lyrics. Taken as a whole, these scores became a vehicle for introducing students to the concept of style topics, or _topoi_, an essential feature of most mainstream film music.
 
