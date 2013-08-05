@@ -34,7 +34,7 @@ Please see the following additional guidelines you must follow in this paper. Ab
 
 1.  _Philadelphia_, Chapter 33 (1:20:56-1:29:18); watch the full clip, including the montage that continues beyond this [YouTube clip](http://www.youtube.com/watch?v=ojKKCRLEdYM) (with a reprise of the aria); full film available on DVD or streaming (viewing the full film is recommended, but not required for this assignment).
 2.  “La mamma morta,” [sound recording](http://www.youtube.com/watch?v=xXzeEfH6PTk); in addition many CD recordings are available (and you should listen to more than one performance).
-3.  “La mamma morta,” [piano vocal score](http://conquest.imslp.info/files/imglnks/usimg/9/9e/IMSLP36571-PMLP81470-Giordani_-_Andrea_Chenier_-_vocal_score.pdf) (pp. 186-92 of the PDF, labeled as pp. 183-89 in the document); the piano-vocal score of the complete opera is not required to be examined in full for this project.
+3.  “La mamma morta,” [piano vocal score](http://conquest.imslp.info/files/imglnks/usimg/9/9e/IMSLP36571-PMLP81470-Giordani_-_Andrea_Chenier_-_vocal_score.pdf) (pp. 186-92 of the PDF, labeled as pp. 183-89 in the score); the piano-vocal score of the complete opera is not required to be examined in full for this project.
 
 ### Some guidelines for format and style:
 
