@@ -45,7 +45,7 @@ title: Contributors
 
 ### Enoch S. A. Jacobus ###
 
-Enoch S. A. Jacobus, Ph.D. (University of Kentucky, 2012) holds interests in music theory pedagogy, neo-Riemannian theory, sixteenth-century polyphony, and the music of film, television, and video games. He has presented papers on some of these topics at the local, regional, and international levels, but his enthusiasm for learning transcends any single topic or discipline. He is currently applying for teaching positions in higher education.
+[Enoch S. A. Jacobus](http://thetheoretician.weebly.com/index.html), Ph.D. (University of Kentucky, 2012) holds interests in music theory pedagogy, neo-Riemannian theory, sixteenth-century polyphony, and the music of film, television, and video games. He has presented papers on some of these topics at the local, regional, and international levels, but his enthusiasm for learning transcends any single topic or discipline. He is currently applying for teaching positions in higher education.
 
 ### Timothy A. Johnson ###
 
