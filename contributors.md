@@ -9,35 +9,35 @@ title: Contributors
 
 ### Brian Alegant ###
 
-Brian Alegant is Professor of Music Theory at the Oberlin College Conservatory. 
+[Brian Alegant](http://new.oberlin.edu/conservatory/departments/music-theory/faculty_detail.dot?id=20541) is Professor of Music Theory at the [Oberlin College Conservatory](http://new.oberlin.edu/conservatory/). 
 
 ### Kevin R. Burke ###
 
-Kevin R. Burke is Assistant Professor of Music at Franklin College, where he teaches courses in music history, music theory, and world music. He has presented research on early 19th-Century German opera reception and on pedagogy at regional, national, and international conferences and his work is published in Music Research Forum and Ethnomusicology. He holds a Ph.D. in musicology from the College-Conservatory of Music at the University of Cincinnati.
+[Kevin R. Burke](http://www.franklincollege.edu/about-fc/department-directory/individual?employee=000174222) is Assistant Professor of Music at [Franklin College](http://www.franklincollege.edu), where he teaches courses in music history, music theory, and world music. He has presented research on early 19th-Century German opera reception and on pedagogy at regional, national, and international conferences and his work is published in Music Research Forum and Ethnomusicology. He holds a Ph.D. in musicology from the College-Conservatory of Music at the University of Cincinnati.
 
 ### L. Poundie Burstein ###
 
-L. Poundie Burstein is Professor of Music Theory at Hunter College and the Graduate Center of the City University of New York.  
+<a href="http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Music-(Ph-D-D-M-A)/Faculty-Bios/L--Poundie-Burstein">L. Poundie Burstein</a> is Professor of Music Theory at [Hunter College](http://www.hunter.cuny.edu/music) and the <a href="http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Music-(Ph-D-D-M-A)">Graduate Center of the City University of New York</a>.  
 
 ### Carla R. Colletti ###
 
-Carla R. Colletti is Assistant Professor of music theory and Director of the Bachelor of Arts program in Music at Webster University in Saint Louis, MO.  Her research interests include music theory pedagogy, the music of Francis Poulenc, fin de siècle Europe, and connections between art, music, and poetry.  She is also a freelance oboist. 
+[Carla R. Colletti](http://www2.webster.edu/finearts/music/Fac_Colletti_C.shtml) is Assistant Professor of music theory and Director of the Bachelor of Arts program in Music at [Webster University in Saint Louis, MO](http://www.webster.edu/fine-arts/departments/music/index.html).  Her research interests include music theory pedagogy, the music of Francis Poulenc, fin de siècle Europe, and connections between art, music, and poetry.  She is also a freelance oboist. 
 
 ### Trevor de Clercq ###
 
-Trevor de Clercq is currently Assistant Professor in the Recording Industry department at Middle Tennessee State University.  He holds degrees from Cornell University (BA in music), New York University (MM in music technology), the Cleveland Institute of Electronics (AAS in electronics engineering technology), and the Eastman School of Music (MA and PhD in music theory).  His research – which encompasses popular music, sound recording, and music cognition – has been published in Popular Music and the Journal of New Music Research as well as presented at various regional, national, and international conferences.
+[Trevor de Clercq](http://www.midside.com) is currently Assistant Professor in the [Recording Industry department at Middle Tennessee State University](http://recordingindustry.mtsu.edu).  He holds degrees from Cornell University (BA in music), New York University (MM in music technology), the Cleveland Institute of Electronics (AAS in electronics engineering technology), and the Eastman School of Music (MA and PhD in music theory).  His research – which encompasses popular music, sound recording, and music cognition – has been published in Popular Music and the Journal of New Music Research as well as presented at various regional, national, and international conferences.
 
 ### Philip Duker ###
 
-Philip Duker is Assistant professor of Music at the University of Delaware, where he joined the faculty in 2009.  His current research focuses on repetition in music from an analytical and meta-theoretical perspective, investigating how this topic is foundational to analysis and can also provide new avenues of exploration in Twentieth-Century music.
+[Philip Duker](http://www.music.udel.edu/about-us/faculty-staff/Pages/philip-duker.aspx) is Assistant professor of Music at the [University of Delaware](http://www.music.udel.edu/Pages/home.aspx), where he joined the faculty in 2009.  His current research focuses on repetition in music from an analytical and meta-theoretical perspective, investigating how this topic is foundational to analysis and can also provide new avenues of exploration in Twentieth-Century music.
 
 ### Anna Gawboy ###
 
-Anna Gawboy is assistant professor of music theory at Ohio State University, where she coordinates the first-year theory curriculum, supervises graduate student instructors, and teaches music theory pedagogy.
+[Anna Gawboy](http://music.osu.edu/people/gawboy) is assistant professor of music theory at [Ohio State University](http://music.osu.edu), where she coordinates the first-year theory curriculum, supervises graduate student instructors, and teaches music theory pedagogy.
 
 ### Stephen Gosden ###
 
-Stephen Gosden is an Assistant Professor of Music Theory at the University of North Florida. He previously taught at the Oberlin Conservatory of Music.
+[Stephen Gosden](http://www.unf.edu/bio/N00859400/) is an Assistant Professor of Music Theory at the [University of North Florida](http://www.unf.edu/coas/music/). He previously taught at the Oberlin Conservatory of Music.
 
 ### Bryn Hughes ###
 
@@ -53,27 +53,27 @@ Enoch S. A. Jacobus, Ph.D. (University of Kentucky, 2012) holds interests in mus
 
 ### Alexander R. Ludwig ###
 
-Alexander R. Ludwig, Ph.D. (Brandeis University, 2010) teaches courses in music history at Boston College. His research interests include the development and evolution of sonata form, music theory and popular music. He currently serves as the secretary of the Haydn Society of North America, and he is an active cellist and pianist.
+Alexander R. Ludwig, Ph.D. (Brandeis University, 2010) teaches courses in music history at [Boston College](http://www.bc.edu/content/bc/schools/cas/music.html). His research interests include the development and evolution of sonata form, music theory and popular music. He currently serves as the secretary of the Haydn Society of North America, and he is an active cellist and pianist.
 
 ### Crystal Peebles ###
 
-Crystal Peebles received a B.M. in Music Education from East Carolina University and a M.M. and Ph.D. in Music Theory from The Florida State University. Crystal has presented research at a variety of conferences including the International Conference for Music Perception and Cognition, the Annual Meeting for the Society for Music Theory, and numerous regional conferences. Her research interests include music cognition, specifically the perception of musical form and the influence of motion on the perception of music, the analysis of formal processes in  post-1945 music, and the influence of performance practice on the perception of musical structure.
+[Crystal Peebles](http://nau.edu/CAL/Music/Faculty/Peebles/) is an instructor of Music Theory at [Northern Arizona University](http://nau.edu/CAL/Music/Welcome/) and holds a Ph.D. in Music Theory from Florida State University. Crystal has presented research at a variety of conferences including the International Conference for Music Perception and Cognition, the Annual Meeting for the Society for Music Theory, and numerous regional conferences. Her research interests include music cognition, specifically the perception of musical form and the influence of motion on the perception of music, the analysis of formal processes in  post- 1945 music, and the influence of performance practice on the perception of musical structure. 
 
 ### Deborah Rifkin ###
 
-Deborah Rifkin is Associate Professor of music theory at Ithaca College. 
+[Deborah Rifkin](http://faculty.ithaca.edu/drifkin/) is Associate Professor of music theory at [Ithaca College](http://www.ithaca.edu/music/). 
 
 ### Colin Roust ###
 
-Colin Roust is an Assistant Professor of Music History at Roosevelt University's Chicago College of Performing Arts. He holds degrees from the Universities of Missouri and Michigan, and previously taught at the Oberlin Conservatory. His teaching and research interests focus primarily on issues of music and politics, and on the relationship of music and other arts in multimedia works (song, opera, dance, film, etc.). He is a co-editor of [_The Routledge Film Music Sourcebook_](http://www.routledge.com/books/details/9780415888745/) and a forthcoming translation of William Ritter's _Etudes d'Art Etranger_. 
+[Colin Roust](http://www.roosevelt.edu/CCPA/MusicConservatory/Faculty/CoreMusicStudies.aspx#Roust) is an Assistant Professor of Music History at [Roosevelt University's Chicago College of Performing Arts](http://www.roosevelt.edu/CCPA/MusicConservatory.aspx). He holds degrees from the Universities of Missouri and Michigan, and previously taught at the Oberlin Conservatory. His teaching and research interests focus primarily on issues of music and politics, and on the relationship of music and other arts in multimedia works (song, opera, dance, film, etc.). He is a co-editor of [_The Routledge Film Music Sourcebook_](http://www.routledge.com/books/details/9780415888745/) and a forthcoming translation of William Ritter's _Etudes d'Art Etranger_. 
 
 ### Barbara Sawhill ###
 
-Barbara Sawhill is Director of the Cooper International Learning Center and Lecturer of Hispanic Studies at Oberlin College.
+[Barbara Sawhill](http://new.oberlin.edu/arts-and-sciences/departments/hispanic_studies/faculty_detail.dot?id=885888) is Director of the [Cooper International Learning Center](http://languages.oberlin.edu) and Lecturer of [Hispanic Studies at Oberlin College](http://new.oberlin.edu/arts-and-sciences/departments/hispanic_studies/).
 
 ### Peter Schubert ###
 
-Peter Schubert teaches at McGill University's Schulich School of Music. He has published articles and textbooks on counterpoint, and conducts VivaVoce, a professional ensemble in Montreal.
+[Peter Schubert](http://www.mcgill.ca/music/about-us/bio/peter-schubert) teaches at McGill University's [Schulich School of Music](http://www.mcgill.ca/music/). He has published articles and textbooks on counterpoint, and conducts [VivaVoce](http://www.vivavoce-montreal.com), a professional ensemble in Montreal.
 
 ### Kris Shaffer ###
 
