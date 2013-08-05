@@ -21,11 +21,11 @@ title: Contributors
 
 ### Carla R. Colletti ###
 
-[Carla R. Colletti](http://www2.webster.edu/finearts/music/Fac_Colletti_C.shtml) is Assistant Professor of music theory and Director of the Bachelor of Arts program in Music at [Webster University in Saint Louis, MO](http://www.webster.edu/fine-arts/departments/music/index.html).  Her research interests include music theory pedagogy, the music of Francis Poulenc, fin de siècle Europe, and connections between art, music, and poetry.  She is also a freelance oboist. 
+[Carla R. Colletti](http://www2.webster.edu/finearts/music/Fac_Colletti_C.shtml) is Assistant Professor of music theory and Director of the Bachelor of Arts program in Music at [Webster University in Saint Louis, MO](http://www.webster.edu/fine-arts/departments/music/index.html). Her research interests include music theory pedagogy, the music of Francis Poulenc, fin de siècle Europe, and connections between art, music, and poetry.  She is also a freelance oboist. 
 
 ### Trevor de Clercq ###
 
-[Trevor de Clercq](http://www.midside.com) is currently Assistant Professor in the [Recording Industry department at Middle Tennessee State University](http://recordingindustry.mtsu.edu).  He holds degrees from Cornell University (BA in music), New York University (MM in music technology), the Cleveland Institute of Electronics (AAS in electronics engineering technology), and the Eastman School of Music (MA and PhD in music theory).  His research – which encompasses popular music, sound recording, and music cognition – has been published in Popular Music and the Journal of New Music Research as well as presented at various regional, national, and international conferences.
+[Trevor de Clercq](http://www.midside.com) is currently Assistant Professor in the [Recording Industry department at Middle Tennessee State University](http://recordingindustry.mtsu.edu). He holds degrees in music theory (BA, Cornell; MA/PhD Eastman), music technology (MM, NYU) and electronics engineering (AAS, CIE). His research encompasses popular music, sound recording, and music cognition.
 
 ### Philip Duker ###
 
