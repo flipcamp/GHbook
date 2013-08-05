@@ -25,7 +25,7 @@ In the following essay, I will describe not only why Twitter is a better alterna
 
 A class Twitter feed has many advantages over other types of listening journals. For example, a physical listening journal must be collected and assessed periodically, while a forum such as Blackboard or another LMS is neither open nor easy to use. On the other hand, a student’s Twitter stream is always available: one can monitor development, correct a misunderstanding or highlight a salient point. By meeting my students on their turf, I can transfer some of the dynamic classroom energy into educational purposes outside of the classroom.
 
-The interactive nature of Twitter and allows me to model good tweeting behavior or intercede in a discussion if necessary. Throughout the semester, I use different types of prompts so that my students are continually varying the format of their tweeted responses. For example, this is one response to my prompt asking for three adjectives describing Franz Schubert’s “Erlkönig”:
+The interactive nature of Twitter allows me to model good tweeting behavior or intercede in a discussion if necessary. Throughout the semester, I use different types of prompts so that my students are continually varying the format of their tweeted responses. For example, this is one response to my prompt asking for three adjectives describing Franz Schubert’s “Erlkönig”:
 
 >@OliviaSackMusic
 stern, masculine, dramatic \#SchubertErlkonig
