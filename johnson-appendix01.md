@@ -7,7 +7,7 @@ author: Timothy A. Johnson, Ithaca College
 {{ page.title }}
 ================
 
-[**{{ page.author }}**](http://faculty.ithaca.edu/tjohnson/)
+**{{ page.author }}**
 
 _[(Back to main article)](johnson.html)_
 

@@ -49,7 +49,7 @@ Enoch S. A. Jacobus, Ph.D. (University of Kentucky, 2012) holds interests in mus
 
 ### Timothy A. Johnson ###
 
-Timothy A. Johnson is professor of music theory at Ithaca College. He is the author of three books, [_John Adams’s_ Nixon in China: _Musical Analysis, Historical and Political Perspectives_ (Ashgate 2011)](http://openlibrary.org/works/OL16528659W/John_Adams's_Nixon_in_China); [_Foundations of Diatonic Theory: A Mathematically Based Approach to Music Fundamentals_ (Scarecrow 2008)](http://openlibrary.org/works/OL8481463W/Foundations_of_Diatonic_Theory); and [_Baseball and the Music of Charles Ives: A Proving Ground_ (Scarecrow 2004)](http://openlibrary.org/works/OL8481462W/Baseball_and_the_Music_of_Charles_Ives), winner of the Sporting News-SABR Baseball Research Award. 
+[Timothy A. Johnson](http://faculty.ithaca.edu/tjohnson/) is professor of music theory at [Ithaca College](http://www.ithaca.edu/music/). He is the author of three books, [_John Adams’s_ Nixon in China: _Musical Analysis, Historical and Political Perspectives_ (Ashgate 2011)](http://openlibrary.org/works/OL16528659W/John_Adams's_Nixon_in_China); [_Foundations of Diatonic Theory: A Mathematically Based Approach to Music Fundamentals_ (Scarecrow 2008)](http://openlibrary.org/books/ia:foundationsdiato00john/Foundations_of_diatonic_theory_electronic_resource_a_mathematically_based_approach_to_music_fundamen); and [_Baseball and the Music of Charles Ives: A Proving Ground_ (Scarecrow 2004)](http://openlibrary.org/works/OL8481462W/Baseball_and_the_Music_of_Charles_Ives), winner of the Sporting News-SABR Baseball Research Award. 
 
 ### Alexander R. Ludwig ###
 
