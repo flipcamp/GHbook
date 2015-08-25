@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Engaging Students – Essays in Music Pedagogy
 ---
 _Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music.
