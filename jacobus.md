@@ -11,7 +11,7 @@ author: Enoch S. A. Jacobus, Berea, Kentucky
 
 A great deal of the national conversation on education has centered on the latest trend and the use of technology in the classroom. While many of these ideas have merit, I find myself increasingly intrigued by the notion of combining new ideas with old ones—very old ones. I am referring to the trivium, that relic of medieval university curriculum to which we don’t give much recognition any more, even in liberal arts institutions. And on the face of it, why would we? Grammar, logic, rhetoric: these are great for giving a speech, but most of us don’t do that. Music belongs to the quadrivium, after all. But every field of study has its grammar, logic, and rhetoric, if we think of these words in more general terms. (All dictionary references from New Oxford American Dictionary, 3rd ed., s.vv. “grammar,” “dialectic,” “rhetoric,” and “trivium.”)
 
-###Grammatica
+### Grammatica
 
 >__grammar |ˈgramər|__ _noun_
 >
@@ -21,7 +21,7 @@ ORIGIN late Middle English: from Old French _gramaire_, via Latin from Greek _gr
 
 What do students normally think of as music theory? Probably what we in the discipline would only consider the “nuts and bolts.” Constructs like scales, intervals, and time signatures are these nuts and bolts, a kind of musical grammar. But so often my students think music theory is the identification of such things; that in labeling the Roman numerals or identifying the tone row they are “doing theory.” For a long time as an undergraduate, I thought that doing analysis meant accounting for and classifying every note in the score. I fear most students make that mistake, believing that information alone will get them through the gauntlet of the undergraduate music theory curriculum. And perhaps I am to blame for failing to dissuade them of that delusion. If the assignments I hand out and the exams I proctor are entirely focused on getting students to identify, define, and label musical data, then I can hardly blame them for thinking that’s all there is. Medieval scholars knew, as do we, that one may understand what a nail and hammer are, but knowing neither builds the house, nor makes it a particularly solid house. This brings us to dialectic.
 
-###Dialectica
+### Dialectica
 
 >__dialectic |ˌdīəˈlektik|__ _noun_
 >
@@ -36,7 +36,7 @@ Musical logic underlies all of Peter Schickele’s musical humor. Imagine listen
 
 I, as a teacher, have a responsibility to draw students’ attention to the underlying dialectic. For this reason, I frequently differentiate between the way a particular musical phenomenon might appear “in the wild” as opposed to “in the zoo.” I want my students to understand that under the controlled laboratory conditions of the classroom, we tend to see clear, obvious examples. I want to balance that out by giving them “field experience,” where they may have to sort out a number of factors that muddy the waters. At this stage, they should know how to wield a hammer and how to put a house together (i.e., put up the walls before the roof).
 
-###Rhetorica
+### Rhetorica
 
 >__rhetoric |ˈretərik|__ _noun_
 >
@@ -50,7 +50,7 @@ Compare a student’s attempt at writing a fugue exposition to one of Bach’s, 
 
 Writing analytical prose can accomplish similar rhetorical goals, provided we encourage students to avoid the onerous “play-by-play.” We do students a disservice if we wait until their final year or two before asking them to write analytical prose of any substantial length. Early attempts need not be long; even in the first year of study, a paragraph or two may be a good place to start.
 
-###The Place Where Three Roads Meet
+### The Place Where Three Roads Meet
 
 >__trivium |ˈtrivēəm|__ _noun_
 >
