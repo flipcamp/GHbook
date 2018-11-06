@@ -13,6 +13,6 @@ The motivation behind the assembly of this collection was drawn in part from our
 - [Volume 3 (2015)](http://flipcamp.org/engagingstudents3/)  
 - [Volume 4 (2016), *Engaging Students through Jazz*](http://flipcamp.org/engagingstudents4/)  
 - [Volume 5 (2017)](http://flipcamp.org/engagingstudents5/)
- 
-We hope that these and future volumes will help you empower your students to be thoughtful, critical, skilled musicians. Please contact [flipcampmt@gmail.com](mailto:flipcampmt@gmail.com) with any questions or comments.
+- [Volume 6 (2018)](http://flipcamp.org/engagingstudents6/)
 
+We hope that these and future volumes will help you empower your students to be thoughtful, critical, skilled musicians. Please contact [flipcampmt@gmail.com](mailto:flipcampmt@gmail.com) with any questions or comments.
